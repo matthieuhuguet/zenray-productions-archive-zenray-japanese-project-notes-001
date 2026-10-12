@@ -3,3 +3,19 @@
 - Project ID: zenray-japanese. (12 October 2026)
 - Canonical feedback: /Users/zenray/.claude/Memory1/Projects/zenray-japanese/FEEDBACK.md. (12 October 2026)
 - Append dated decisions and verified knowledge here; retain existing entries. (12 October 2026)
+
+## Corpus et moteur vérifiés (12 October 2026)
+
+- Sources : JMdict 218863 mots, KANJIDIC2 13108 caractères, Tatoeba 43834 paires, KanjiVG 6703 tracés ; droits et empreintes dans l’atelier research/datasets. (12 October 2026)
+- Langue : 157 points de grammaire avec niveaux éditoriaux N5 à N1, exemples originaux et prérequis ; aucun acquis déduit de cette disponibilité. La couverture n’est pas déclarée exhaustive. (12 October 2026)
+- Japanese2.md et Japanese3.md sont append-only ; Corpus/mapping.json relie les versions courantes par identifiant et lignes, contrôlées sur toutes les fiches. Les volumes se séparent avant 90 MiB pour conserver le push Git. (12 October 2026)
+- CLI : /Users/zenray/.claude/tmp/tmp-zenray-japanese/Scripts/Corpus.py ; paramètres dans settings.json ; le skill zenray-japanese-corpus donne les commandes. Les données SQLite restent reconstruites et sauvegardées par Assets, hors du Git source. (12 October 2026)
+- Site : changement de la vue Japanese au commit ZenRayProgress 6ef7d0e9, recherche par fragments immuables, filtres, pagination, tracés et cuisine sans LLM ; 15 tests et build passent. Le point d’entrée production sert le même script que le build déployé. (12 October 2026)
+- Leçon : un point neuf, exemples en deux colonnes, jusqu’à trois exercices, réponses masquées, retest tiré du jeu oral existant ; aucune restitution inventée. (12 October 2026)
+- Assets : sources atelier et sous-ensemble Japanese explicitement déclarés, surveillance persistée. La sauvegarde intégrale attend encore sa preuve ; 4212 fichiers actuels sont déclarés sauvegardés au dernier statut, avec file reprenable après arrêt du service. (12 October 2026)
+
+## Integrated workflow verification (12 October 2026)
+
+- Actual compiler verification covers 276056 records, 157 grammar points and 88 Japan cards; 194 lessons prepare without a runtime LLM. Examples remain editorial drafts pending independent native review. (12 October 2026)
+- Production API authentication succeeds and serves the actual corpus, 日 stroke record and the next ば grammar lesson; ProductionDataReport.json preserves the measurements. (12 October 2026)
+- Recursive Assets transfer remains unconfirmed: service receipts cover 4214 historical files and the last attempt reports Source changed before version comparison. Stabilize compilation, refresh inventory and compare all admitted files to verified cloud receipts. (12 October 2026)
