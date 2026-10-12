@@ -1,0 +1,71 @@
+{
+ "schemaVersion": 1,
+ "projectId": "zenray-japanese",
+ "scannedAt": "2026-10-12T12:41:39.113Z",
+ "conversations": [
+  {
+   "projectId": "zenray-japanese",
+   "lines": 22,
+   "work": 13,
+   "prompts": 0,
+   "first": "2026-10-12T12:36:37.774Z",
+   "last": "2026-10-12T12:41:04.255Z",
+   "strength": "strong",
+   "conversationId": "codex:01a1301b-f199-7773-863c-b2a78d50b909",
+   "provider": "codex",
+   "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
+   "title": "Conversation codex 01a1301b",
+   "updatedAt": "2026-10-12T12:41:31.782Z",
+   "bytes": 3847445,
+   "boundProject": "zenray-japanese"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 11,
+   "work": 6,
+   "prompts": 0,
+   "first": "2026-10-12T12:38:36.374Z",
+   "last": "2026-10-12T12:41:30.534Z",
+   "strength": "strong",
+   "conversationId": "codex:01a1301f-004c-7f90-8a16-a1fd6d965a93",
+   "provider": "codex",
+   "sessionId": "01a1301f-004c-7f90-8a16-a1fd6d965a93",
+   "title": "Conversation codex 01a1301f",
+   "updatedAt": "2026-10-12T12:41:30.534Z",
+   "bytes": 920052,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 5,
+   "work": 3,
+   "prompts": 0,
+   "first": "2026-10-12T12:39:23.397Z",
+   "last": "2026-10-12T12:39:33.081Z",
+   "strength": "strong",
+   "conversationId": "codex:01a1301e-d4f0-7783-9557-9cccca9d86d5",
+   "provider": "codex",
+   "sessionId": "01a1301e-d4f0-7783-9557-9cccca9d86d5",
+   "title": "Conversation codex 01a1301e",
+   "updatedAt": "2026-10-12T12:39:33.113Z",
+   "bytes": 676195,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-12T12:40:54.890Z",
+   "last": "2026-10-12T12:40:54.930Z",
+   "strength": "weak",
+   "conversationId": "codex:01a1301e-a85b-7c61-b215-cd06adcfcbf4",
+   "provider": "codex",
+   "sessionId": "01a1301e-a85b-7c61-b215-cd06adcfcbf4",
+   "title": "Conversation codex 01a1301e",
+   "updatedAt": "2026-10-12T12:41:02.744Z",
+   "bytes": 1432851,
+   "boundProject": null
+  }
+ ]
+}

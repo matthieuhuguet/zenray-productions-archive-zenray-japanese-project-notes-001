@@ -1,0 +1,72 @@
+# zenray-japanese : project feedback, append only (12 October 2026, 14:36:34 +0200)
+
+## 12 October 2026, 14:36:34 +0200 : Log
+
+<!-- feedback-event:f960b7ffe242a6b0c243f0dd5a29fc2ebf1c63b6f31f62988f3de45b8a0953b8 (12 October 2026, 14:36:34 +0200) -->
+- Project: zenray-japanese; kind: log. (12 October 2026, 14:36:34 +0200)
+
+> Project initialized: ZenRay Japanese rework. Workshop: /Users/zenray/.claude/tmp/tmp-zenray-japanese. (12 October 2026, 14:36:34 +0200)
+
+## 12 October 2026, 14:35:23 +0200 : Prompt
+
+<!-- feedback-event:ea87c2a8d5fc3e748d0763b3580b7470873ba5c7f371f12c1ac09cfe982d4090 (12 October 2026, 14:35:23 +0200) -->
+- Project: zenray-japanese; kind: prompt. (12 October 2026, 14:35:23 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:35:23 +0200)
+
+> /goal lis le fichier pasted qui contient ton goal go go workflow (12 October 2026, 14:35:23 +0200)
+>
+> Referenced pasted text files: (12 October 2026, 14:35:23 +0200)
+> - pasted text file: /Users/zenray/.codex/attachments/2bb46adc-3313-40c4-b361-cb32defd352f/pasted-text-1.txt. Read this file before continuing. (12 October 2026, 14:35:23 +0200)
+
+## 12 October 2026, 14:36:23 +0200 : Prompt
+
+<!-- feedback-event:6d39807087441b3394842868950120c20f9b0e6f22f715a214174aa4826f7f81 (12 October 2026, 14:36:23 +0200) -->
+- Project: zenray-japanese; kind: prompt. (12 October 2026, 14:36:23 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:36:23 +0200)
+
+> sur assets le projet s'apelle donc zenray-japanese go et doit être cloudé de manière recursive et progressive go (12 October 2026, 14:36:23 +0200)
+
+## 12 October 2026, 14:36:58 +0200 : Prompt
+
+<!-- feedback-event:f8266642466913f2c773ef8c563f1b411033de7dce41713470062760f9b8bfa7 (12 October 2026, 14:36:58 +0200) -->
+- Project: zenray-japanese; kind: prompt. (12 October 2026, 14:36:58 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:36:58 +0200)
+
+> [$wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) tu as compris tout ce que tu dois faire tu as tout lu ? (12 October 2026, 14:36:58 +0200)
+
+## 12 October 2026, 14:37:15 +0200 : Iteration
+
+<!-- feedback-event:b1881802ef080b5738efd4c9c20805ea3ca888bbe77668cef0edfabd1c11f55d (12 October 2026, 14:37:15 +0200) -->
+- Project: zenray-japanese; kind: iteration. (12 October 2026, 14:37:15 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:37:15 +0200)
+
+> Oui, j’ai lu intégralement ton fichier joint et compris l’objectif : un corpus sourcé jusqu’au N1 et au-delà dans Japanese2.md, le Japon dans Japanese3.md, des leçons paramétrables et une consultation sans LLM dans la vue Japanese de ZenRayProgress, avec sauvegarde récursive et progressive dans l’asset `zenray-japanese`. (12 October 2026, 14:37:15 +0200)
+>
+> Je n’ai **pas encore tout lu** : certaines lectures groupées sont tronquées ; le corpus existant et les workflows Height et Motion Design restent à examiner précisément. Le projet Assets est initialisé et surveillé, mais sa sauvegarde cloud n’est pas encore confirmée. (12 October 2026, 14:37:15 +0200)
+>
+> J’applique [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md), qui impose « Attendre la validation explicite Matthieu avant toute action ». Je m’arrête donc ici ; ton accord permettra de terminer ces lectures, puis d’exécuter et vérifier le workflow. (12 October 2026, 14:37:15 +0200)
+
+## 12 October 2026, 14:37:23 +0200 : Iteration
+
+<!-- feedback-event:fbba491c22ec0c0bc54282bbf534a07d44bccf4ea58d6f769fda413af9948118 (12 October 2026, 14:37:23 +0200) -->
+- Project: zenray-japanese; kind: iteration. (12 October 2026, 14:37:23 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:37:23 +0200)
+
+> L’exécution reste en attente de ton accord, conformément au skill [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) que tu viens d’invoquer. La relance automatique du goal ne vaut pas validation humaine. (12 October 2026, 14:37:23 +0200)
+>
+> Un « go » permettra de reprendre les lectures restantes, puis la construction et la vérification du workflow complet. (12 October 2026, 14:37:23 +0200)
+
+## 12 October 2026, 14:37:33 +0200 : Prompt
+
+<!-- feedback-event:10fd5d1b22632ef30cf3afcc4aff8c34b431ea9d4b01cae0b480fbb007a5ac46 (12 October 2026, 14:37:33 +0200) -->
+- Project: zenray-japanese; kind: prompt. (12 October 2026, 14:37:33 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 14:37:33 +0200)
+
+> go (12 October 2026, 14:37:33 +0200)
+
+## 12 October 2026, 14:39:22 +0200 : Standing rule
+
+<!-- feedback-event:4bc72046cc03ac79943925d2461414dce57bd3935d4222031569aecd02467e5a (12 October 2026, 14:39:22 +0200) -->
+- Project: zenray-japanese; kind: rule. (12 October 2026, 14:39:22 +0200)
+
+> Le projet Assets se nomme zenray-japanese ; sauvegarde récursive progressive ; Japanese1 conserve seulement le vécu et les acquis, Japanese2 porte le corpus langue, Japanese3 porte le Japon, couverture manquante toujours visible. (12 October 2026, 14:39:22 +0200)
