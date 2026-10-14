@@ -1,0 +1,63 @@
+# Resume zenray-japanese (14 October 2026 at 11:07)
+
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (14 October 2026 at 11:07)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Rules.md) (2 rules). (14 October 2026 at 11:07)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/FEEDBACK.md), 15 entries, last Prompt at 13 October 2026, 09:18:27 +0200. (14 October 2026 at 11:07)
+
+## Latest conversations (14 October 2026 at 11:07)
+
+- LATEST codex:01a1301b-f199-7773-863c-b2a78d50b909, « Conversation codex 01a1301b », last activity 13 October 2026 at 09:18 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a1301b-f199-7773-863c-b2a78d50b909 --out <file.md>`. (14 October 2026 at 11:07)
+
+## Last 6 prompts of Matthieu, oldest first (14 October 2026 at 11:07)
+
+### 12 October 2026, 14:37:33 +0200 · Prompt · codex:01a1301b
+
+> go
+
+### 12 October 2026, 16:58:52 +0200 · Prompt · codex:01a1301b
+
+> continue
+
+### 12 October 2026, 19:47:14 +0200 · Prompt · codex:01a1301b
+
+> continue jusqu'à finiir completement
+
+### 12 October 2026, 22:25:07 +0200 · Prompt · codex:01a1301b
+
+> continue jusqu'à finiir completement à 100%
+
+### 13 October 2026, 00:00:19 +0200 · Prompt · codex:01a1301b
+
+> Je te le dit maintenant mais les leçons ne peuvent absolument pas se permettre d'avoir une erreur ou d'halluciner : rêgle n1 en priorité absolu faudra faire une revérifications une fois toutes la data fini avec revue adversariale
+
+### 13 October 2026, 09:18:27 +0200 · Prompt · codex:01a1301b
+
+> continue jusqu'à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md)
+
+
+## Last 3 iterations or checkpoints (14 October 2026 at 11:07)
+
+### 12 October 2026, 14:37:15 +0200 · Iteration · codex:01a1301b
+
+> Oui, j’ai lu intégralement ton fichier joint et compris l’objectif : un corpus sourcé jusqu’au N1 et au-delà dans Japanese2.md, le Japon dans Japanese3.md, des leçons paramétrables et une consultation sans LLM dans la vue Japanese de ZenRayProgress, avec sauvegarde récursive et progressive dans l’asset `zenray-japanese`.
+> 
+> Je n’ai **pas encore tout lu** : certaines lectures groupées sont tronquées ; le corpus existant et les workflows Height et Motion Design restent à examiner précisément. Le projet Assets est initialisé et surveillé, mais sa sauvegarde cloud n’est pas encore confirmée.
+> 
+> J’applique [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md), qui impose « Attendre 
+> [... 165 more characters in FEEDBACK.md]
+
+### 12 October 2026, 14:37:23 +0200 · Iteration · codex:01a1301b
+
+> L’exécution reste en attente de ton accord, conformément au skill [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) que tu viens d’invoquer. La relance automatique du goal ne vaut pas validation humaine.
+> 
+> Un « go » permettra de reprendre les lectures restantes, puis la construction et la vérification du workflow complet.
+
+
+## Last order of work (14 October 2026 at 11:07)
+
+### 13 October 2026, 09:18:48 +0200 · Order of work · manual
+
+> continue jusqu’à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md)
+
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (14 October 2026 at 11:07)

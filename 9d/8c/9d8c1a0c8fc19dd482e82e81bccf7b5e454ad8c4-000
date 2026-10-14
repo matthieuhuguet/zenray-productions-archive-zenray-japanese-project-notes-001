@@ -86,3 +86,404 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 19:47:14 +0200)
 
 > continue jusqu'à finiir completement (12 October 2026, 19:47:14 +0200)
+
+## 12 October 2026, 22:25:07 +0200 : Prompt
+
+<!-- feedback-event:a826540cf68fafda9d12f5b37bab1cc3f446cfd6bb7fc669a50ebfb7fd4835a8 (12 October 2026, 22:25:07 +0200) -->
+- Project: zenray-japanese; kind: prompt. (12 October 2026, 22:25:07 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (12 October 2026, 22:25:07 +0200)
+
+> continue jusqu'à finiir completement à 100% (12 October 2026, 22:25:07 +0200)
+
+## 13 October 2026, 00:00:50 +0200 : Standing rule
+
+<!-- feedback-event:792ff32fe78b16e07e90705f410a3bf3b9b8d68ec42671f917d1dc3374bdc351 (13 October 2026, 00:00:50 +0200) -->
+- Project: zenray-japanese; kind: rule. (13 October 2026, 00:00:50 +0200)
+
+> Les leçons ne doivent comporter aucune erreur ni hallucination. Priorité absolue : après finalisation des données, effectuer une revue adversariale complète des règles, des exemples, des traductions et des sources ; bloquer la préparation utilisable et l'export de toute leçon dont la validation présente un doute non résolu. (13 October 2026, 00:00:50 +0200)
+
+## 13 October 2026, 00:00:19 +0200 : Prompt
+
+<!-- feedback-event:9aa0d8535a203611bb954538baee1e5beeb48d1c9d2ebd9fcc3b4e79156c08ff (13 October 2026, 00:00:19 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 00:00:19 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 00:00:19 +0200)
+
+> Je te le dit maintenant mais les leçons ne peuvent absolument pas se permettre d'avoir une erreur ou d'halluciner : rêgle n1 en priorité absolu faudra faire une revérifications une fois toutes la data fini avec revue adversariale (13 October 2026, 00:00:19 +0200)
+
+## 13 October 2026, 09:18:48 +0200 : Order of work
+
+<!-- feedback-event:c35f5147f9a03c0e2fb95bbdd632b4de8b23a11d8975eb64c0c9a85f1aa61b2e (13 October 2026, 09:18:48 +0200) -->
+- Project: zenray-japanese; kind: order. (13 October 2026, 09:18:48 +0200)
+
+> continue jusqu’à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (13 October 2026, 09:18:48 +0200)
+
+## 13 October 2026, 09:18:27 +0200 : Prompt
+
+<!-- feedback-event:1f5d7d059a27db40b79b5c3dd35ec58b3906fdc0b6c1cce2a7673f633cf1b0bc (13 October 2026, 09:18:27 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 09:18:27 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 09:18:27 +0200)
+
+> continue jusqu'à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (13 October 2026, 09:18:27 +0200)
+
+## 14 October 2026, 11:09:10 +0200 : Prompt
+
+<!-- feedback-event:d26be179a57670ccc9549b2fab6ded4f903401a48c77026e88364bcd095b4e8b (14 October 2026, 11:09:10 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 11:09:10 +0200)
+
+> Continue et fini à 100% l'orchestrateur : app local qui permet d'intéroger la data / l'UI style wani kani qui permet de progresser dans les leçons et data s'il en manque go (14 October 2026, 11:09:10 +0200)
+
+## 14 October 2026, 11:38:36 +0200 : Standing rule
+
+<!-- feedback-event:7010abd13a582680230cc3e179b965c302ed477c0bbcad3ec53d068dae50a561 (14 October 2026, 11:38:36 +0200) -->
+- Project: zenray-japanese; kind: rule. (14 October 2026, 11:38:36 +0200)
+
+> L'application est web dans Learn, Japanese de ZenRayProgress ; aucun second écran local. japanese-context doit interroger la base pour les prochaines leçons, en gardant Japanese1.md comme chronologie unique et Japanese/CLAUDE.md comme entrée des règles pédagogiques. (14 October 2026, 11:38:36 +0200)
+
+## 14 October 2026, 12:00:48 +0200 : Log
+
+<!-- feedback-event:e73e13cde08a1ab9d73ca1914ebfb02955e7de7eabba30b3dc510db081f5963f (14 October 2026, 12:00:48 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 12:00:48 +0200)
+
+> 14 October 2026 : Parcours web deploye sur ZenRayProgress depuis main ffaf2456, deploiement 8d6788ac, bundle index-B7JRI_-n verifie en production. 62 tests, 12 controles navigateur isole. Reglages relus via API apres commit Memory 710bc069570be25ffaad2f6dcdb9e62ef0558b46 ; aucun faux resultat apprenant cree. Checkpoint Assets echoue car service absent ; archive recursive integrale toujours non confirmee. Couverture N1 toujours incomplete et signalee dans la vue. (14 October 2026, 12:00:48 +0200)
+
+## 14 October 2026, 12:24:32 +0200 : Prompt
+
+<!-- feedback-event:318ccd0e30c6d4c0b00638795f1d8146121467cc918fad4ed8f198ca2cb34a50 (14 October 2026, 12:24:32 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 12:24:32 +0200)
+
+> Pas seulement le n1 du coup le N5 / N4 N3 N2 N1 au dela du n1 : Corpus complet jusqu’au N1, incomplet, 31 fiches N1 ; lacunes affichées explicitement. Continue et fini à 100 %. (14 October 2026, 12:24:32 +0200)
+
+## 14 October 2026, 12:55:08 +0200 : Prompt
+
+<!-- feedback-event:94f66dbc2d3ff4b8b6d4a9ae2fe55a409e851a1e9718f3e15d10b680280126ba (14 October 2026, 12:55:08 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 12:55:08 +0200)
+
+> fini proprement pour l’instant et dis moi ou tu t’arrêtes on va bientôt atteindre notre limite crée un fichier de reprise pour ensuite (14 October 2026, 12:55:08 +0200)
+
+## 14 October 2026, 16:54:07 +0200 : Prompt
+
+<!-- feedback-event:67cf97f630e19c3e8bd8ebf2bf0def4b58e60377c0137c896a334bed8d24d6a3 (14 October 2026, 16:54:07 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 16:54:07 +0200)
+
+> continue et fini a 100% ma limite est à 100% (14 October 2026, 16:54:07 +0200)
+
+## 14 October 2026, 17:27:36 +0200 : Log
+
+<!-- feedback-event:a38ff5f27e254658d1569f760931c56c24685e7b034c96abd76f4763749c8a02 (14 October 2026, 17:27:36 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 17:27:36 +0200)
+
+> 14 October 2026 : reprise exécutée, 30 nouvelles fiches N5 publiées après deux revues ; 258 fiches grammaticales au total, N5 82 N4 39 N3 48 N2 48 N1 41. API réelle vérifie release9cb784b90533b073 et352cartes approuvées. Compte autorisé mais goal automatique encore usageLimited, demande de réactivation envoyée ; couverture100% non atteinte, archive Assets toujours non confirmée. (14 October 2026, 17:27:36 +0200)
+
+## 14 October 2026, 21:33:41 +0200 : Log
+
+<!-- feedback-event:eed1b613cc3a6dab1824a4d91b40b28fbd5bf0450d24faba18e2964a1fe1a278 (14 October 2026, 21:33:41 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 21:33:41 +0200)
+
+> 14 October 2026 : audits N5 indépendants clos sur132 points figés ; bilan conservateur43 couverts,15 manquants unanimes,74 ouverts. CompileCoverageAudit et11 tests passent ; sources et rapports conservés dans snapshotV_003. Goal actif, prochaine étape : nouveau petit lot de formes productives manquantes, deux revues linguistiques, nouvelle compilation puis réaudit de couverture. (14 October 2026, 21:33:41 +0200)
+
+## 14 October 2026, 21:49:11 +0200 : Log
+
+<!-- feedback-event:162c15f47dda795ab698c791a34716a9249999a701da570105b5e0bb4759312e (14 October 2026, 21:49:11 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 21:49:11 +0200)
+
+> 14 October 2026 : 21 nouvelles fiches N5 et42exemples approuvés par deux relecteurs séquentiels ;4prérequis corrigés puis réexaminés. Compilation373 fiches éditoriales,279grammaticales,N5=103 ; mapping276178 contrôlé et21leçons préparées sans historique apprenant. Release8148e6b6ebd8e4c7 ; couverture exhaustive toujours ouverte, ancien audit lié à9cb reste historique. (14 October 2026, 21:49:11 +0200)
+
+## 14 October 2026, 22:14:15 +0200 : Log
+
+<!-- feedback-event:ac066ff16e34aff9fb0dddc6cac0400faed95937e25b3380742867ed0a1e9060 (14 October 2026, 22:14:15 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 22:14:15 +0200)
+
+> 14 October 2026 : quatrième lot validé :20N5 et1fiche N4 de soutien,42exemples relus par deux relecteurs indépendants. Défauts de prérequis corrigés ;122ancienshashesinchangés. Compilation394fiches300grammaticales,N5=123,N4=40 ;mapping276199vérifié. Productionàrelireaprèspublication ; couvertureglobaleetarchiveAssetsrestentouvertes. (14 October 2026, 22:14:15 +0200)
+
+## 14 October 2026, 22:34:10 +0200 : Log
+
+<!-- feedback-event:1cf6d8430b37e5ff51a98f8c92b16702ab3fd51588e0f4ade386ec38ed8f746c (14 October 2026, 22:34:10 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 22:34:10 +0200)
+
+> 14 October 2026 : audit de couverture N5 actualisé sur la release publiée aba956b0fb5ab395. Deux relecteurs indépendants examinent les 56 liens modifiés et 77 fiches candidates ; le bilan concordant passe de 43 à 70 points couverts sur 132, avec 62 ouverts. Les 43 anciennes couvertures ne sont réutilisées que sur des empreintes strictement identiques. Garde de couverture : 20 tests réussis ; rapports, sources référencées et liste des lacunes conservés dans V_006. (14 October 2026, 22:34:10 +0200)
+
+## 14 October 2026, 23:11:34 +0200 : Log
+
+<!-- feedback-event:0e4eff79b21cb7f909746d8bb5cea8d48d5980f0265953b3286cc305df30c636 (14 October 2026, 23:11:34 +0200) -->
+- Project: zenray-japanese; kind: log. (14 October 2026, 23:11:34 +0200)
+
+> 27 fiches N5 et 54 exemples publiés après deux revues linguistiques exactes ; API réelle conforme. Deux audits sur 27 correspondances : 88 points couverts, 44 ouverts sur 132 ; 20 tests de couverture passent. Reprise dans ResumeCorpus.md et snapshots V_007/V_008. La couverture intégrale et archive Assets restent ouvertes. (14 October 2026, 23:11:34 +0200)
+
+## 13 October 2026, 16:22:05 +0200 : Prompt
+
+<!-- feedback-event:769c05bd250748eaa78d94847972c1b3e76786083e7c781244b97f5844f51c12 (13 October 2026, 16:22:05 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 16:22:05 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 16:22:05 +0200)
+
+> [$wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) qu'est ce qui reste à faire pour utiliser ce projet ? est ce que tout est fini / rangé / déployé ? (13 October 2026, 16:22:05 +0200)
+
+## 13 October 2026, 16:23:16 +0200 : Iteration
+
+<!-- feedback-event:f87d2fcdda53325d69dbf9ec6e48c4467f91911e60415bf7fae70181ad48b22f (13 October 2026, 16:23:16 +0200) -->
+- Project: zenray-japanese; kind: iteration. (13 October 2026, 16:23:16 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 16:23:16 +0200)
+
+> **La vue Japanese est déployée, mais le projet n’est pas encore terminé à 100 %.** (13 October 2026, 16:23:16 +0200)
+>
+> | Ce que tu voulais | État | Preuve | (13 October 2026, 16:23:16 +0200)
+> |---|---|---| (13 October 2026, 16:23:16 +0200)
+> | Corpus et leçons | Fait | 276 056 entrées, 194 leçons préparées | (13 October 2026, 16:23:16 +0200)
+> | Revue adversariale | Fait | 251 fiches contrôlées par deux revues indépendantes, sans certification humaine | (13 October 2026, 16:23:16 +0200)
+> | Rangé dans Assets | Fait | Projet `zenray-japanese`, sources et paramètres reliés | (13 October 2026, 16:23:16 +0200)
+> | Déployé | Partiel | Interface en ligne ; dernière version des données encore à vérifier sur le site | (13 October 2026, 16:23:16 +0200)
+> | Tout cloudé | Non | 43 864 reçus pour 51 080 fichiers inventoriés ; dernier transfert en erreur | (13 October 2026, 16:23:16 +0200)
+> | Restauration vérifiée | Non | Test restant à effectuer | (13 October 2026, 16:23:16 +0200)
+>
+> Il reste à terminer le correctif du service Assets, achever l’archive, vérifier les fichiers cloud et leur restauration, puis contrôler les leçons sur [ZenRayProgress](https://zenray-progress.pages.dev). (13 October 2026, 16:23:16 +0200)
+>
+> Conformément à [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md), « attendre une validation explicite », je suspends les modifications jusqu’à ton **go**. (13 October 2026, 16:23:16 +0200)
+
+## 13 October 2026, 16:38:33 +0200 : Prompt
+
+<!-- feedback-event:bffe77e17420e88cda7f9813f6a083de29ffacbbb46561f501d3870072714804 (13 October 2026, 16:38:33 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 16:38:33 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 16:38:33 +0200)
+
+> Bah non je le vois pas / btw par rapport à ZenRay Progress tu as vérifiés que les nouvelles mesures git (politique 1900 mo est bien en place / changement sur le cmaf etc.) (13 October 2026, 16:38:33 +0200)
+
+## 13 October 2026, 16:42:45 +0200 : Prompt
+
+<!-- feedback-event:0d322560264745d0787d43d6951053c6cef9e43d1c5ea663813bd58f79038053 (13 October 2026, 16:42:45 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 16:42:45 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 16:42:45 +0200)
+
+> <send_user_message_question_reply> (13 October 2026, 16:42:45 +0200)
+> [{"questionItemId":"[\"request_user_input_async\",\"call_f619bcd315b648b3a177f2a7955183ad\",0]","question":"Quand tu dis « je ne le vois pas », où cherches-tu le projet ?","answer":"Dans Learn → Japanese"}] (13 October 2026, 16:42:45 +0200)
+> </send_user_message_question_reply> (13 October 2026, 16:42:45 +0200)
+
+## 13 October 2026, 16:44:41 +0200 : Iteration
+
+<!-- feedback-event:f82e1521e5e6db2ccee08817878caf35fa85036346257127479c66e219d3f173 (13 October 2026, 16:44:41 +0200) -->
+- Project: zenray-japanese; kind: iteration. (13 October 2026, 16:44:41 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 16:44:41 +0200)
+
+> 13 October 2026 : **Japanese s’ouvre encore sur « Leçons »**. Le nouveau moteur est derrière le bouton **« Corpus »**, sous les jauges. J’ai confirmé que [le site](https://zenray-progress.pages.dev) sert ce bouton et les 251 fiches validées ; je n’ai pas identifié pourquoi il manque dans ta vue. (13 October 2026, 16:44:41 +0200)
+>
+> **Non, je n’avais pas vérifié les nouvelles mesures Git/CMAF.** Le contrôle actuel montre : (13 October 2026, 16:44:41 +0200)
+>
+> | Point | Constat | (13 October 2026, 16:44:41 +0200)
+> |---|---| (13 October 2026, 16:44:41 +0200)
+> | Politique à 1 900 Mo | Pas confirmée dans les chemins contrôlés | (13 October 2026, 16:44:41 +0200)
+> | Dépôts CMAF | Rotation encore réglée à **4,2 Gio**, également sur `main` distant | (13 October 2026, 16:44:41 +0200)
+> | Archives vidéo | Plafond par défaut encore à **2 Gio** | (13 October 2026, 16:44:41 +0200)
+> | Changements CMAF | Code présent, mais fonctionnement actuel non revérifié | (13 October 2026, 16:44:41 +0200)
+>
+> Il reste donc un audit d’intégration avant de dire que ces mesures sont appliquées. Je reste en lecture seule conformément à `wait-validation`. (13 October 2026, 16:44:41 +0200)
+
+## 13 October 2026, 17:17:03 +0200 : Prompt
+
+<!-- feedback-event:355bf5bbe066566086e8ecaa3bf90d984c070eba40eef69fd2902afa3aed9e0b (13 October 2026, 17:17:03 +0200) -->
+- Project: zenray-japanese; kind: prompt. (13 October 2026, 17:17:03 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 17:17:03 +0200)
+
+> Oui mais comment utiliser le corpus et est ce qu'il contient vraiment toutes les leçons pour aller jusqu'au n1 et au dela 250 fiches me semble très très faible on dirait qu'il manque énormément de choses (13 October 2026, 17:17:03 +0200)
+
+## 13 October 2026, 17:17:50 +0200 : Iteration
+
+<!-- feedback-event:a6dae036dd39cca48c2227fc1a8dd135d4f680f956d52d43b0081e4b28955242 (13 October 2026, 17:17:50 +0200) -->
+- Project: zenray-japanese; kind: iteration. (13 October 2026, 17:17:50 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (13 October 2026, 17:17:50 +0200)
+
+> **Non : le corpus actuel ne constitue pas encore un parcours complet jusqu’au N1 et au-delà.** Mes annonces de finalisation sont trop larges : le moteur fonctionne, mais la couverture pédagogique reste insuffisante. (13 October 2026, 17:17:50 +0200)
+>
+> Les **251 fiches** comprennent seulement **157 points de grammaire**, dont **31 classés N1**, ainsi que 88 fiches sur le Japon et 6 fiches de méthode. Les 276 056 entrées viennent surtout des dictionnaires, kanji et phrases de référence : **ce ne sont pas autant de leçons**. (13 October 2026, 17:17:50 +0200)
+>
+> Pour utiliser ce qui existe : (13 October 2026, 17:17:50 +0200)
+>
+> 1. Dans **Japanese → Corpus**, cherche un mot ou une construction, par exemple `ば`. (13 October 2026, 17:17:50 +0200)
+> 2. Filtre par domaine et niveau. (13 October 2026, 17:17:50 +0200)
+> 3. Ouvre une fiche, puis clique **Ajouter à la leçon**. (13 October 2026, 17:17:50 +0200)
+> 4. Clique **Préparer la leçon**, puis télécharge le Markdown si tu veux le conserver. (13 October 2026, 17:17:50 +0200)
+>
+> Cette préparation assemble une notion et ses exemples vérifiés ; elle ne construit pas encore un cursus complet adapté à ta progression. (13 October 2026, 17:17:50 +0200)
+>
+> | Ce que tu veux | État | Ce qui manque | (13 October 2026, 17:17:50 +0200)
+> |---|---|---| (13 October 2026, 17:17:50 +0200)
+> | Chercher et préparer une leçon sans LLM | Fait | Fonctionne sur les fiches présentes | (13 October 2026, 17:17:50 +0200)
+> | Toutes les leçons jusqu’au N1 | Incomplet | Inventaire de couverture, notions absentes et progression complète | (13 October 2026, 17:17:50 +0200)
+> | Aller au-delà du N1 | Incomplet | Grammaire avancée, registres, nuances et usages authentiques | (13 October 2026, 17:17:50 +0200)
+>
+> La prochaine étape nécessaire est donc **un audit des lacunes par niveau**, suivi de leur collecte et de leur double vérification. Ajouter du vocabulaire en masse ne comblera pas ces lacunes. (13 October 2026, 17:17:50 +0200)
+
+## 14 October 2026, 11:03:08 +0200 : Prompt
+
+<!-- feedback-event:b700b77e45bf5eb1e9722d720a16792e553c6011b28e064c618dde7b806f908b (14 October 2026, 11:03:08 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 11:03:08 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 11:03:08 +0200)
+
+> Continue et fini à 100% l'orchestrateur : app local qui permet d'intéroger la data / l'UI style wani kani qui permet de progresser dans les leçons et data s'il en manque go (14 October 2026, 11:03:08 +0200)
+
+## 14 October 2026, 11:16:12 +0200 : Prompt
+
+<!-- feedback-event:b013bc95ec0ff43cf05c2f69fd3e9b655ee4b75ff7e8e5612e7827083e03e1b9 (14 October 2026, 11:16:12 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 11:16:12 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 11:16:12 +0200)
+
+> l'application est web sur la partie learn japanese de [$zenrayprogress-context](/Users/zenray/.codex/skills/zenrayprogress-context/SKILL.md) right ? ne code pas au mauvaise endroit.&#x20; (14 October 2026, 11:16:12 +0200)
+>
+> [$japanese-context](/Users/zenray/.codex/skills/japanese-context/SKILL.md) via ce skill je dois pouvoir interroger la database pour mes prochaines leçons code tout proprement / les leçons doivent respecter les instructions de La source chronologique unique reste :\ (14 October 2026, 11:16:12 +0200)
+> \ (14 October 2026, 11:16:12 +0200)
+> \`/Users/zenray/.claude/Memory1/Japanese/Japanese1.md\`\ (14 October 2026, 11:16:12 +0200)
+> \ (14 October 2026, 11:16:12 +0200)
+> Les règles pédagogiques courantes restent dans :\ (14 October 2026, 11:16:12 +0200)
+> \ (14 October 2026, 11:16:12 +0200)
+> \`/Users/zenray/.claude/Memory1/Japanese/CLAUDE.md (14 October 2026, 11:16:12 +0200)
+
+## 14 October 2026, 12:15:19 +0200 : Iteration
+
+<!-- feedback-event:264d55dafe649cff33cfaa0b2261fd63f5ff8d2d6d8bb361f46bf58b40da0d30 (14 October 2026, 12:15:19 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 12:15:19 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 12:15:19 +0200)
+
+> 14 October 2026 : l’application est déployée dans **Learn → Japanese → Parcours** sur [ZenRayProgress](https://zenray-progress.pages.dev/), avec révisions espacées, diagnostic, recherche et réglages. (14 October 2026, 12:15:19 +0200)
+>
+> | Ce que tu veux | État | Preuve | (14 October 2026, 12:15:19 +0200)
+> |---|---|---| (14 October 2026, 12:15:19 +0200)
+> | Interface inspirée de WaniKani | Fait | 62 tests, 12 contrôles et navigateur réel en production | (14 October 2026, 12:15:19 +0200)
+> | Interroger via `japanese-context` | Fait | Recherche ば en N4 et préparation vérifiées | (14 October 2026, 12:15:19 +0200)
+> | Respecter ton historique et les règles | Fait | Chronologie unique, retest, oral, réponses masquées, contenu altéré bloqué | (14 October 2026, 12:15:19 +0200)
+> | Corpus complet jusqu’au N1 | Incomplet | 31 fiches N1 ; lacunes affichées explicitement | (14 October 2026, 12:15:19 +0200)
+> | Archive Assets intégrale | Non confirmé | La sauvegarde complète reste à vérifier | (14 October 2026, 12:15:19 +0200)
+>
+> **L’application est utilisable ; le projet entier n’est donc pas encore à 100 %.** (14 October 2026, 12:15:19 +0200)
+
+## 14 October 2026, 12:19:40 +0200 : Prompt
+
+<!-- feedback-event:e56544191db01f84f88c08d99cefb94923d423936bdebd454084bb7a807fa75c (14 October 2026, 12:19:40 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 12:19:40 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 12:19:40 +0200)
+
+> Et bien fait ça :Corpus complet jusqu’au N1	Incomplet	31 fiches N1 ; lacunes affichées explicitement [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) Continue et fini à 100 %. (14 October 2026, 12:19:40 +0200)
+
+## 14 October 2026, 12:23:44 +0200 : Prompt
+
+<!-- feedback-event:6d169204062291e08547c1d844331d692b636a1b6fe22626d80e9b7b299d22f8 (14 October 2026, 12:23:44 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 12:23:44 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 12:23:44 +0200)
+
+> Pas seulement le n1 du coup le N5 / N4 N3 N2 N1 au dela du n1 : Et bien fait ça :Corpus complet jusqu’au N1	Incomplet	31 fiches N1 ; lacunes affichées explicitement [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) Continue et fini à 100 %. (14 October 2026, 12:23:44 +0200)
+
+## 14 October 2026, 12:51:24 +0200 : Prompt
+
+<!-- feedback-event:70497446d03061efeade7c645b404e04bb6021569544ee66d9c9132c54f28206 (14 October 2026, 12:51:24 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 12:51:24 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 12:51:24 +0200)
+
+> fini proprement pour l'instant et dis moi ou tu t'arrêtes on va bientôt atteindre notre limite crée un fichier de reprise pour ensuite (14 October 2026, 12:51:24 +0200)
+
+## 14 October 2026, 16:53:34 +0200 : Prompt
+
+<!-- feedback-event:1a3be8bf57d8c17122949d810df18b98113161d5be61fcf007ab60d47f0fe91d (14 October 2026, 16:53:34 +0200) -->
+- Project: zenray-japanese; kind: prompt. (14 October 2026, 16:53:34 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 16:53:34 +0200)
+
+> continue et fini a 100% ma limite est à 100% (14 October 2026, 16:53:34 +0200)
+
+## 14 October 2026, 17:29:51 +0200 : Iteration
+
+<!-- feedback-event:cc9283e8203f468291e946a77b19a6907097db924fb878f1de99bbad04ff18c7 (14 October 2026, 17:29:51 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 17:29:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 17:29:51 +0200)
+
+> 101 nouvelles fiches sont validées et publiées. Le corpus compte maintenant **258 fiches grammaticales** : N5 82, N4 39, N3 48, N2 48, N1 41. (14 October 2026, 17:29:51 +0200)
+>
+> La suite précise est sauvegardée dans [ResumeCorpus.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/ResumeCorpus.md). (14 October 2026, 17:29:51 +0200)
+>
+> | Ta demande | État | Preuve | (14 October 2026, 17:29:51 +0200)
+> |---|---|---| (14 October 2026, 17:29:51 +0200)
+> | Compléter le corpus | Partiel | 101 nouvelles fiches, deux revues chacune | (14 October 2026, 17:29:51 +0200)
+> | Vérifier la publication | Fait | Catalogue relu par l’API réelle | (14 October 2026, 17:29:51 +0200)
+> | Atteindre 100 % | Incomplet | Grammaire restante, parcours vocabulaire, kanji, lecture, écoute et au-delà à compléter | (14 October 2026, 17:29:51 +0200)
+>
+> Le goal automatique reste `usageLimited` malgré le quota disponible. Sa réactivation côté application est demandée pour poursuivre automatiquement. (14 October 2026, 17:29:51 +0200)
+
+## 14 October 2026, 21:34:30 +0200 : Iteration
+
+<!-- feedback-event:90c3c7f826bd60f817fe46a48aa74b112e16ef89e1e82c54b1027468af2c10df (14 October 2026, 21:34:30 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 21:34:30 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 21:34:30 +0200)
+
+> Les deux audits N5 sont terminés : **43 points sur 132 sont couverts selon les deux relecteurs**. Je poursuis avec les constructions manquantes, puis les autres niveaux. (14 October 2026, 21:34:30 +0200)
+>
+> | Demandé | État | Preuve | (14 October 2026, 21:34:30 +0200)
+> |---|---|---| (14 October 2026, 21:34:30 +0200)
+> | Revue indépendante | Fait | 132 points examinés deux fois, 11 tests réussis | (14 October 2026, 21:34:30 +0200)
+> | Sauvegarde de reprise | Fait | Sources et rapports publiés dans Git | (14 October 2026, 21:34:30 +0200)
+> | Corpus complet à 100 % | Incomplet | 89 points N5 restent ouverts ou manquants | (14 October 2026, 21:34:30 +0200)
+> | Archive Assets complète | Bloqué | Service inaccessible | (14 October 2026, 21:34:30 +0200)
+>
+> Le goal reste actif. (14 October 2026, 21:34:30 +0200)
+
+## 14 October 2026, 21:52:31 +0200 : Iteration
+
+<!-- feedback-event:22d9680618540f7ba4a8b6fe3eb65b338a6eaf3b6d685c08966cc565a1c169ea (14 October 2026, 21:52:31 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 21:52:31 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 21:52:31 +0200)
+
+> **21 nouvelles fiches N5 sont validées et publiées**, avec 42 exemples revus indépendamment deux fois. Je continue les lacunes restantes. (14 October 2026, 21:52:31 +0200)
+>
+> | Demandé | État | Preuve | (14 October 2026, 21:52:31 +0200)
+> |---|---|---| (14 October 2026, 21:52:31 +0200)
+> | Compléter les fondations N5 | Avancé | 103 fiches grammaticales N5 disponibles | (14 October 2026, 21:52:31 +0200)
+> | Vérifier la publication | Fait | Les 373 fiches servies correspondent exactement au catalogue contrôlé | (14 October 2026, 21:52:31 +0200)
+> | Finir tout le corpus | Incomplet | Couverture restante à compléter et réauditer | (14 October 2026, 21:52:31 +0200)
+> | Sauvegarder la reprise | Fait | Sources, revues et preuves publiées dans Git | (14 October 2026, 21:52:31 +0200)
+>
+> Le goal reste actif ; l’archive Assets reste non confirmée. (14 October 2026, 21:52:31 +0200)
+
+## 14 October 2026, 22:16:49 +0200 : Iteration
+
+<!-- feedback-event:c86168bcb5bb5760f2f3b9f264ceb69f6f8947e7e460d58405c4593352a62fc5 (14 October 2026, 22:16:49 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 22:16:49 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 22:16:49 +0200)
+
+> **21 nouvelles fiches sont publiées**, avec 42 exemples revus indépendamment deux fois. Le catalogue compte maintenant **394 fiches validées**. (14 October 2026, 22:16:49 +0200)
+>
+> | Demandé | État | Preuve | (14 October 2026, 22:16:49 +0200)
+> |---|---|---| (14 October 2026, 22:16:49 +0200)
+> | Compléter les lacunes | Avancé | 20 fiches N5 et une fiche de soutien N4 ajoutées | (14 October 2026, 22:16:49 +0200)
+> | Vérifier la publication | Fait | Contenu servi identique au catalogue contrôlé | (14 October 2026, 22:16:49 +0200)
+> | Sauvegarder la reprise | Fait | Sources et preuves publiées dans Git | (14 October 2026, 22:16:49 +0200)
+> | Corpus complet à 100 % | Incomplet | Couverture restante à réauditer et compléter | (14 October 2026, 22:16:49 +0200)
+>
+> Je poursuis le contrôle de couverture N5 ; le goal reste actif. (14 October 2026, 22:16:49 +0200)
+
+## 14 October 2026, 22:37:12 +0200 : Iteration
+
+<!-- feedback-event:b60d5f20211e8daee3dc6c73be16eef0efcb0ced6358914a5c3d2444384a54ca (14 October 2026, 22:37:12 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 22:37:12 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 22:37:12 +0200)
+
+> L’audit confirme désormais **70 points N5 couverts sur 132**, avec **62 encore ouverts**. Je poursuis leurs compléments. (14 October 2026, 22:37:12 +0200)
+>
+> | Demandé | État | Preuve | (14 October 2026, 22:37:12 +0200)
+> |---|---|---| (14 October 2026, 22:37:12 +0200)
+> | Vérifier la couverture | Fait | 56 correspondances modifiées relues indépendamment deux fois | (14 October 2026, 22:37:12 +0200)
+> | Bloquer les fausses validations | Fait | 20 tests réussis | (14 October 2026, 22:37:12 +0200)
+> | Sauvegarder la reprise | Fait | Rapports et lacunes publiés dans Git | (14 October 2026, 22:37:12 +0200)
+> | Finir le corpus à 100 % | Incomplet | Les omissions restent explicitement ouvertes | (14 October 2026, 22:37:12 +0200)
+>
+> Le goal reste actif. (14 October 2026, 22:37:12 +0200)
+
+## 14 October 2026, 23:12:22 +0200 : Iteration
+
+<!-- feedback-event:ee36c3a9c336d0400fe230665b10035edfef70d021e2a6be38db57804e4525fb (14 October 2026, 23:12:22 +0200) -->
+- Project: zenray-japanese; kind: iteration. (14 October 2026, 23:12:22 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (14 October 2026, 23:12:22 +0200)
+
+> 27 nouvelles fiches publiées après deux revues indépendantes. La couverture complète reste en cours ; je ne la déclare pas terminée. (14 October 2026, 23:12:22 +0200)
+>
+> | Ta demande | État | Preuve | (14 October 2026, 23:12:22 +0200)
+> |---|---|---| (14 October 2026, 23:12:22 +0200)
+> | Leçons fiables | Vérifié | 421 fiches approuvées, 40 tests réussis | (14 October 2026, 23:12:22 +0200)
+> | Compléter le N5 | Partiel | 88 points couverts sur 132, 44 ouverts | (14 October 2026, 23:12:22 +0200)
+> | N4 à N1 et au-delà | Incomplet | Couverture exhaustive encore à vérifier | (14 October 2026, 23:12:22 +0200)
+> | Disponible sur le site | Vérifié | API réelle conforme au catalogue | (14 October 2026, 23:12:22 +0200)
+> | Tout sauvegarder dans Assets | Incomplet | Service arrêté, checkpoint échoué | (14 October 2026, 23:12:22 +0200)
+>
+> [Reprise détaillée et prochaines actions](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/ResumeCorpus.md). (14 October 2026, 23:12:22 +0200)

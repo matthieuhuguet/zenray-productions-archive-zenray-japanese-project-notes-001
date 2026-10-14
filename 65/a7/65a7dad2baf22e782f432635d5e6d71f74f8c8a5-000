@@ -3,3 +3,5 @@
 Standing rules of this project, one line each, loaded automatically at session start. Full history and context: FEEDBACK.md in this folder. A rule that changes gets a new line citing the old one. (12 October 2026)
 
 - Le projet Assets se nomme zenray-japanese ; sauvegarde récursive progressive ; Japanese1 conserve seulement le vécu et les acquis, Japanese2 porte le corpus langue, Japanese3 porte le Japon, couverture manquante toujours visible. (12 October 2026) <!-- rule:2cfe8de564fd -->
+- Les leçons ne doivent comporter aucune erreur ni hallucination. Priorité absolue : après finalisation des données, effectuer une revue adversariale complète des règles, des exemples, des traductions et des sources ; bloquer la préparation utilisable et l'export de toute leçon dont la validation présente un doute non résolu. (13 October 2026) <!-- rule:0ab6480e9887 -->
+- L'application est web dans Learn, Japanese de ZenRayProgress ; aucun second écran local. japanese-context doit interroger la base pour les prochaines leçons, en gardant Japanese1.md comme chronologie unique et Japanese/CLAUDE.md comme entrée des règles pédagogiques. (14 October 2026) <!-- rule:230f23f38ce7 -->
