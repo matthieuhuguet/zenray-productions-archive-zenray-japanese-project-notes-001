@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-15T09:03:32.738Z",
+ "scannedAt": "2026-10-15T09:11:34.004Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
-   "lines": 1269,
-   "work": 624,
-   "prompts": 4,
+   "lines": 1280,
+   "work": 629,
+   "prompts": 5,
    "first": "2026-10-12T12:35:57.154Z",
-   "last": "2026-10-15T09:02:08.197Z",
+   "last": "2026-10-15T09:10:29.168Z",
    "strength": "strong",
    "conversationId": "codex:01a1301b-f199-7773-863c-b2a78d50b909",
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-15T09:03:24.502Z",
-   "bytes": 34588804,
+   "updatedAt": "2026-10-15T09:10:50.536Z",
+   "bytes": 35218006,
    "boundProject": "zenray-japanese"
   },
   {
@@ -325,6 +325,22 @@
   },
   {
    "projectId": "zenray-japanese",
+   "lines": 33,
+   "work": 16,
+   "prompts": 0,
+   "first": "2026-10-15T09:02:33.703Z",
+   "last": "2026-10-15T09:10:55.358Z",
+   "strength": "strong",
+   "conversationId": "codex:01a13ecc-751b-7bd3-8d67-6eaa5aaa5ed6",
+   "provider": "codex",
+   "sessionId": "01a13ecc-751b-7bd3-8d67-6eaa5aaa5ed6",
+   "title": "Conversation codex 01a13ecc",
+   "updatedAt": "2026-10-15T09:10:55.358Z",
+   "bytes": 962533,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
    "lines": 31,
    "work": 16,
    "prompts": 0,
@@ -433,22 +449,6 @@
    "title": "Conversation codex 01a13bf1",
    "updatedAt": "2026-10-14T19:46:06.210Z",
    "bytes": 828547,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 13,
-   "work": 7,
-   "prompts": 0,
-   "first": "2026-10-15T09:02:33.703Z",
-   "last": "2026-10-15T09:03:32.467Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13ecc-751b-7bd3-8d67-6eaa5aaa5ed6",
-   "provider": "codex",
-   "sessionId": "01a13ecc-751b-7bd3-8d67-6eaa5aaa5ed6",
-   "title": "Conversation codex 01a13ecc",
-   "updatedAt": "2026-10-15T09:03:24.593Z",
-   "bytes": 484722,
    "boundProject": null
   },
   {
