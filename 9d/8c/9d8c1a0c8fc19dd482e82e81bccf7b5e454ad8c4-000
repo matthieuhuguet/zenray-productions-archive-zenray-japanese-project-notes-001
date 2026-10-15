@@ -510,3 +510,10 @@
 - Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (15 October 2026, 10:09:05 +0200)
 
 > Application 1.0.0 publiée sur origin/main 65aab04d et déploiement 9310a334 ; bundle réel index-CnZVkpbg vérifié, catalogue et audit exacts, références et recherche kanji relues, authentification vérifiée sans écriture apprenant. 2563 tests du checkout propre et 65 ciblés passent. Corpus 439 fiches, 345 grammaticales ; couverture N5 88/132 et 44 ouvertes, autres niveaux et compétences toujours incomplets. Documentation Release1.0.0.md et snapshot Release/1.0.0. Archive japonaise en attente du writer Assets partagé ; aucun original supprimé. (15 October 2026, 10:09:05 +0200)
+
+## 15 October 2026, 10:49:37 +0200 : Log
+
+<!-- feedback-event:e1793374bea933f88f28f5c3e2e54d8185b834a6456538f079e7741802573b5a (15 October 2026, 10:49:37 +0200) -->
+- Project: zenray-japanese; kind: log. (15 October 2026, 10:49:37 +0200)
+
+> Archive distante de la release vérifiée sur 18 dépôts et 149 commits : 102438 fichiers exacts sur 102442. Aucun corpus, code, source pédagogique, leçon ou historique canonique absent. Les écarts sont les deux index de la discussion active, FileMap dérivé et le rapport remplacé pendant le contrôle ; limites nommées dans Release/1.0.0/ArchiveProof.json. Publication applicative 1.0.0 vérifiée ; couverture complète N5 à N1 toujours ouverte. (15 October 2026, 10:49:37 +0200)
