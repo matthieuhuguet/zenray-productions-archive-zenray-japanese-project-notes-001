@@ -517,3 +517,11 @@
 - Project: zenray-japanese; kind: log. (15 October 2026, 10:49:37 +0200)
 
 > Archive distante de la release vérifiée sur 18 dépôts et 149 commits : 102438 fichiers exacts sur 102442. Aucun corpus, code, source pédagogique, leçon ou historique canonique absent. Les écarts sont les deux index de la discussion active, FileMap dérivé et le rapport remplacé pendant le contrôle ; limites nommées dans Release/1.0.0/ArchiveProof.json. Publication applicative 1.0.0 vérifiée ; couverture complète N5 à N1 toujours ouverte. (15 October 2026, 10:49:37 +0200)
+
+## 15 October 2026, 10:57:29 +0200 : Iteration
+
+<!-- feedback-event:ad626e7999b8474059536113ff9ce614ab723dc273123edbdd1bd69323b43216 (15 October 2026, 10:57:29 +0200) -->
+- Project: zenray-japanese; kind: iteration. (15 October 2026, 10:57:29 +0200)
+- Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (15 October 2026, 10:57:29 +0200)
+
+> Application ZenRay Japanese 1.0.0 livrée sur le site, code 65aab04d et tag publiés, déploiement 9310a334 ; 2563 tests propres et 65 ciblés passent. Corpus publié de 439 fiches validées, 345 grammaticales. Double lecture de production à plus de dix minutes, aucune écriture apprenant fictive. Archive distante comparée : 102443 fichiers exacts sur 102445, 18 dépôts et 149 commits ; seuls deux index dérivés de cette conversation active évoluent encore et sont repris automatiquement. Aucun corpus, code, source, leçon, historique ou document de release absent ; aucun original supprimé. Documentation Release1.0.0.md, preuve ReleaseArchiveProof.json. La couverture complète N5 à N1 et au-delà reste ouverte, 88 points N5 couverts sur 132 et 44 ouverts ; prochaine extension dans ResumeCorpus.md. (15 October 2026, 10:57:29 +0200)
