@@ -525,3 +525,30 @@
 - Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (15 October 2026, 10:57:29 +0200)
 
 > Application ZenRay Japanese 1.0.0 livrée sur le site, code 65aab04d et tag publiés, déploiement 9310a334 ; 2563 tests propres et 65 ciblés passent. Corpus publié de 439 fiches validées, 345 grammaticales. Double lecture de production à plus de dix minutes, aucune écriture apprenant fictive. Archive distante comparée : 102443 fichiers exacts sur 102445, 18 dépôts et 149 commits ; seuls deux index dérivés de cette conversation active évoluent encore et sont repris automatiquement. Aucun corpus, code, source, leçon, historique ou document de release absent ; aucun original supprimé. Documentation Release1.0.0.md, preuve ReleaseArchiveProof.json. La couverture complète N5 à N1 et au-delà reste ouverte, 88 points N5 couverts sur 132 et 44 ouverts ; prochaine extension dans ResumeCorpus.md. (15 October 2026, 10:57:29 +0200)
+
+## 15 October 2026, 11:01:51 +0200 : Iteration
+
+<!-- feedback-event:efec0d91c4d7ba4cd1614fd2b98c1449677785ba89af78dfba632bc36d7c653d (15 October 2026, 11:01:51 +0200) -->
+- Project: zenray-japanese; kind: iteration. (15 October 2026, 11:01:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (15 October 2026, 11:01:51 +0200)
+
+> **ZenRay Japanese 1.0.0 est en ligne** dans [ZenRayProgress](https://zenray-progress.pages.dev), sous **Learn → Japanese → Parcours**. (15 October 2026, 11:01:51 +0200)
+>
+> [Documentation finale](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Release1.0.0.md). (15 October 2026, 11:01:51 +0200)
+>
+> | Ta demande | État | Preuve | (15 October 2026, 11:01:51 +0200)
+> |---|---|---| (15 October 2026, 11:01:51 +0200)
+> | Finir l’application | Livré | 2 563 tests réussis, production vérifiée | (15 October 2026, 11:01:51 +0200)
+> | Retrouver le corpus | Présent | 439 fiches validées, dont 345 grammaticales | (15 October 2026, 11:01:51 +0200)
+> | Archiver les sources | Vérifié | 102 443 fichiers exacts ; deux index de conversation encore vivants | (15 October 2026, 11:01:51 +0200)
+> | Couvrir intégralement N5 à N1 et au-delà | Incomplet | N5 : 88 points couverts sur 132 ; suite documentée | (15 October 2026, 11:01:51 +0200)
+>
+> Aucun original supprimé. (15 October 2026, 11:01:51 +0200)
+
+## 15 October 2026, 11:01:52 +0200 : Prompt
+
+<!-- feedback-event:6efd6fd0b2c23ded237e8851d144b7ef9fd59f5d95d245a3f2b1e5f1622da529 (15 October 2026, 11:01:52 +0200) -->
+- Project: zenray-japanese; kind: prompt. (15 October 2026, 11:01:52 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (15 October 2026, 11:01:52 +0200)
+
+> BTW il manque l'essentiel / le vocabulaire jusqu'au n1 du n5 au n1 et au dela (fr japonais) / les hiragana / katakana / tout les joyo kanji dans l'ordre delegue un agent et intègre à l'UI pour la 1.1.0 / le fait de pouvoir accèder à n'importe quel leçons et ou la revoir / un espace pour trier ou catégorisés les leçons déjà vues. / un espace pour prendre des notes spécifique à l'apprentissage du japonais ou du japon [$prompt-stacking](/Users/zenray/.codex/skills/prompt-stacking/SKILL.md) bref beaucoup de chose [$tasks-sequence](/Users/zenray/.codex/skills/tasks-sequence/SKILL.md) (15 October 2026, 11:01:52 +0200)
