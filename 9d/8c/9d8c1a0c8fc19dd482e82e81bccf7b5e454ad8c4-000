@@ -495,3 +495,18 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (15 October 2026, 09:53:14 +0200)
 
 > Tu finiras proprement tout ça et on archivera tout et via une documentation final pour release la 1.0.0 de zenray japanese bravo et fini proprement (suite a des modifications sur zenray progress il se peut que Le corpus japonais (51 309 fichiers en attente) ait été vidé si oui reupload le proprement en accord avec [$zenray-progress](/Users/zenray/.codex/skills/zenray-progress/SKILL.md) fini l'app. proprement directement sur le site go. (15 October 2026, 09:53:14 +0200)
+
+## 15 October 2026, 10:06:45 +0200 : Log
+
+<!-- feedback-event:af73761b9a33f75f517b3fbc481ef3fd18cc26289dd966f06fd1a72abadbdeb4 (15 October 2026, 10:06:45 +0200) -->
+- Project: zenray-japanese; kind: log. (15 October 2026, 10:06:45 +0200)
+
+> Livraison 1.0.0 demandée : documentation finale, application sur le site et archive complète. Corpus précédent présent, extension approuvée à 439 fiches et 345 grammaticales ; application 65aab04d publiée, Ship.sh en cours et archive Assets 4d75dbe0-fb1f-4ca0-9a29-066d0c60429c active. Ne pas annoncer couverture N5 à N1 complète. (15 October 2026, 10:06:45 +0200)
+
+## 15 October 2026, 10:09:05 +0200 : Iteration
+
+<!-- feedback-event:9229b92ed12dbaed2ae63a7aaf36b7d5b251c135c8d9c48eb6b812abc455002a (15 October 2026, 10:09:05 +0200) -->
+- Project: zenray-japanese; kind: iteration. (15 October 2026, 10:09:05 +0200)
+- Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (15 October 2026, 10:09:05 +0200)
+
+> Application 1.0.0 publiée sur origin/main 65aab04d et déploiement 9310a334 ; bundle réel index-CnZVkpbg vérifié, catalogue et audit exacts, références et recherche kanji relues, authentification vérifiée sans écriture apprenant. 2563 tests du checkout propre et 65 ciblés passent. Corpus 439 fiches, 345 grammaticales ; couverture N5 88/132 et 44 ouvertes, autres niveaux et compétences toujours incomplets. Documentation Release1.0.0.md et snapshot Release/1.0.0. Archive japonaise en attente du writer Assets partagé ; aucun original supprimé. (15 October 2026, 10:09:05 +0200)
