@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-15T00:07:34.506Z",
+ "scannedAt": "2026-10-15T00:28:21.048Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -503,6 +503,22 @@
    "projectId": "zenray-japanese",
    "lines": 6,
    "work": 0,
+   "prompts": 1,
+   "first": "2026-10-14T21:17:55.332Z",
+   "last": "2026-10-15T00:22:58.689Z",
+   "strength": "weak",
+   "conversationId": "claude:5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
+   "provider": "claude",
+   "sessionId": "5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
+   "title": "performance assets and drive",
+   "updatedAt": "2026-10-15T00:27:51.791Z",
+   "bytes": 34518,
+   "boundProject": "zenray-progress"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 6,
+   "work": 0,
    "prompts": 0,
    "first": "2026-09-15T15:05:32.351Z",
    "last": "2026-09-19T17:10:53.903Z",
@@ -658,22 +674,6 @@
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20765,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 2,
-   "work": 0,
-   "prompts": 1,
-   "first": "2026-10-14T21:17:55.332Z",
-   "last": "2026-10-14T21:30:31.756Z",
-   "strength": "weak",
-   "conversationId": "claude:5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
-   "provider": "claude",
-   "sessionId": "5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
-   "title": "performance assets and drive",
-   "updatedAt": "2026-10-15T00:07:14.309Z",
-   "bytes": 34526,
-   "boundProject": "zenray-progress"
   },
   {
    "projectId": "zenray-japanese",
