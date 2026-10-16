@@ -1,63 +1,72 @@
-# Resume zenray-japanese (14 October 2026 at 11:07)
+# Resume zenray-japanese (16 October 2026 at 13:48)
 
-- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (14 October 2026 at 11:07)
-- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Rules.md) (2 rules). (14 October 2026 at 11:07)
-- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/FEEDBACK.md), 15 entries, last Prompt at 13 October 2026, 09:18:27 +0200. (14 October 2026 at 11:07)
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (16 October 2026 at 13:48)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Rules.md) (3 rules). (16 October 2026 at 13:48)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/FEEDBACK.md), 55 entries, last Prompt at 16 October 2026, 13:45:03 +0200. (16 October 2026 at 13:48)
 
-## Latest conversations (14 October 2026 at 11:07)
+## Latest conversations (16 October 2026 at 13:48)
 
-- LATEST codex:01a1301b-f199-7773-863c-b2a78d50b909, « Conversation codex 01a1301b », last activity 13 October 2026 at 09:18 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a1301b-f199-7773-863c-b2a78d50b909 --out <file.md>`. (14 October 2026 at 11:07)
+- LATEST codex:01a1301b-f199-7773-863c-b2a78d50b909, « Conversation codex 01a1301b », last activity 16 October 2026 at 13:45 Paris (from transcript). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a1301b-f199-7773-863c-b2a78d50b909 --out <file.md>`. (16 October 2026 at 13:48)
 
-## Last 6 prompts of Matthieu, oldest first (14 October 2026 at 11:07)
+## Last 6 prompts of Matthieu, oldest first (16 October 2026 at 13:48)
 
-### 12 October 2026, 14:37:33 +0200 · Prompt · codex:01a1301b
+### 14 October 2026, 12:23:44 +0200 · Prompt · codex:01a1301b
 
-> go
+> Pas seulement le n1 du coup le N5 / N4 N3 N2 N1 au dela du n1 : Et bien fait ça :Corpus complet jusqu’au N1	Incomplet	31 fiches N1 ; lacunes affichées explicitement [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) Continue et fini à 100 %.
 
-### 12 October 2026, 16:58:52 +0200 · Prompt · codex:01a1301b
+### 14 October 2026, 12:51:24 +0200 · Prompt · codex:01a1301b
 
-> continue
+> fini proprement pour l'instant et dis moi ou tu t'arrêtes on va bientôt atteindre notre limite crée un fichier de reprise pour ensuite
 
-### 12 October 2026, 19:47:14 +0200 · Prompt · codex:01a1301b
+### 14 October 2026, 16:53:34 +0200 · Prompt · codex:01a1301b
 
-> continue jusqu'à finiir completement
+> continue et fini a 100% ma limite est à 100%
 
-### 12 October 2026, 22:25:07 +0200 · Prompt · codex:01a1301b
+### 15 October 2026, 09:53:14 +0200 · Prompt · codex:01a1301b
 
-> continue jusqu'à finiir completement à 100%
+> Tu finiras proprement tout ça et on archivera tout et via une documentation final pour release la 1.0.0 de zenray japanese bravo et fini proprement (suite a des modifications sur zenray progress il se peut que Le corpus japonais (51 309 fichiers en attente) ait été vidé si oui reupload le proprement en accord avec [$zenray-progress](/Users/zenray/.codex/skills/zenray-progress/SKILL.md) fini l'app. proprement directement sur le site go.
 
-### 13 October 2026, 00:00:19 +0200 · Prompt · codex:01a1301b
+### 15 October 2026, 11:01:52 +0200 · Prompt · codex:01a1301b
 
-> Je te le dit maintenant mais les leçons ne peuvent absolument pas se permettre d'avoir une erreur ou d'halluciner : rêgle n1 en priorité absolu faudra faire une revérifications une fois toutes la data fini avec revue adversariale
+> BTW il manque l'essentiel / le vocabulaire jusqu'au n1 du n5 au n1 et au dela (fr japonais) / les hiragana / katakana / tout les joyo kanji dans l'ordre delegue un agent et intègre à l'UI pour la 1.1.0 / le fait de pouvoir accèder à n'importe quel leçons et ou la revoir / un espace pour trier ou catégorisés les leçons déjà vues. / un espace pour prendre des notes spécifique à l'apprentissage du japonais ou du japon [$prompt-stacking](/Users/zenray/.codex/skills/prompt-stacking/SKILL.md) bref beaucoup de chose [$tasks-sequence](/Users/zenray/.codex/skills/tasks-sequence/SKILL.md)
 
-### 13 October 2026, 09:18:27 +0200 · Prompt · codex:01a1301b
+### 16 October 2026, 13:45:03 +0200 · Prompt · codex:01a1301b
 
-> continue jusqu'à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md)
+> tu reprendras et finira pour la version suivante N.N.N et tu finis proprement
 
 
-## Last 3 iterations or checkpoints (14 October 2026 at 11:07)
+## Last 3 iterations or checkpoints (16 October 2026 at 13:48)
 
-### 12 October 2026, 14:37:15 +0200 · Iteration · codex:01a1301b
+### 15 October 2026, 10:09:05 +0200 · Iteration · checkpoint codex:01a1301b
 
-> Oui, j’ai lu intégralement ton fichier joint et compris l’objectif : un corpus sourcé jusqu’au N1 et au-delà dans Japanese2.md, le Japon dans Japanese3.md, des leçons paramétrables et une consultation sans LLM dans la vue Japanese de ZenRayProgress, avec sauvegarde récursive et progressive dans l’asset `zenray-japanese`.
+> Application 1.0.0 publiée sur origin/main 65aab04d et déploiement 9310a334 ; bundle réel index-CnZVkpbg vérifié, catalogue et audit exacts, références et recherche kanji relues, authentification vérifiée sans écriture apprenant. 2563 tests du checkout propre et 65 ciblés passent. Corpus 439 fiches, 345 grammaticales ; couverture N5 88/132 et 44 ouvertes, autres niveaux et compétences toujours incomplets. Documentation Release1.0.0.md et snapshot Release/1.0.0. Archive japonaise en attente du writer Assets partagé ; aucun original supprimé.
+
+### 15 October 2026, 10:57:29 +0200 · Iteration · checkpoint codex:01a1301b
+
+> Application ZenRay Japanese 1.0.0 livrée sur le site, code 65aab04d et tag publiés, déploiement 9310a334 ; 2563 tests propres et 65 ciblés passent. Corpus publié de 439 fiches validées, 345 grammaticales. Double lecture de production à plus de dix minutes, aucune écriture apprenant fictive. Archive distante comparée : 102443 fichiers exacts sur 102445, 18 dépôts et 149 commits ; seuls deux index dérivés de cette conversation active évoluent encore et sont repris automatiquement. Aucun corpus, code, source, leçon, historique ou document de release absent ; aucun original supprimé. Documentation Release1.0.0.md, preuve ReleaseArchiveProof.json. La couverture complète N5 à N1 et au-delà reste o
+> [... 95 more characters in FEEDBACK.md]
+
+### 15 October 2026, 11:01:51 +0200 · Iteration · codex:01a1301b
+
+> **ZenRay Japanese 1.0.0 est en ligne** dans [ZenRayProgress](https://zenray-progress.pages.dev), sous **Learn → Japanese → Parcours**.
 > 
-> Je n’ai **pas encore tout lu** : certaines lectures groupées sont tronquées ; le corpus existant et les workflows Height et Motion Design restent à examiner précisément. Le projet Assets est initialisé et surveillé, mais sa sauvegarde cloud n’est pas encore confirmée.
+> [Documentation finale](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Release1.0.0.md).
 > 
-> J’applique [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md), qui impose « Attendre 
-> [... 165 more characters in FEEDBACK.md]
-
-### 12 October 2026, 14:37:23 +0200 · Iteration · codex:01a1301b
-
-> L’exécution reste en attente de ton accord, conformément au skill [wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) que tu viens d’invoquer. La relance automatique du goal ne vaut pas validation humaine.
+> | Ta demande | État | Preuve |
+> |---|---|---|
+> | Finir l’application | Livré | 2 563 tests réussis, production vérifiée |
+> | Retrouver le corpus | Présent | 439 fiches validées, dont 345 grammaticales |
+> | Archiver les sources | Vérifié | 102 443 fichiers exacts ; deux index de conversation encore vivants |
+> | Couvrir intégralement N5 à N1 et au-delà | Incomplet | N5 : 88 points couverts sur 132 ; suite documentée |
 > 
-> Un « go » permettra de reprendre les lectures restantes, puis la construction et la vérification du workflow complet.
+> Aucun original supprimé.
 
 
-## Last order of work (14 October 2026 at 11:07)
+## Last order of work (16 October 2026 at 13:48)
 
 ### 13 October 2026, 09:18:48 +0200 · Order of work · manual
 
 > continue jusqu’à finir complètement à 100 % [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md)
 
 
-Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (14 October 2026 at 11:07)
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (16 October 2026 at 13:48)
