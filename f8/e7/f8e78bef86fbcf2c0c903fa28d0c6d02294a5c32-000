@@ -51,3 +51,10 @@
 
 - Version 1.1.0 livrée : vocabulaire de référence français-japonais par appartenances communautaires N5 à N1, kana classés, 2 136 jōyō ordonnés, accès libre aux fiches validées, entraînement libre, catégories/favoris historiques et éditoriaux, carnet personnel. Documents Release1.1.0.md et ResumeCorpus.md gouvernent la reprise ; la couverture complète reste distincte. (17 October 2026)
 - Au prochain prompt de leçon, reprendre après L111 : retest oral puis ば, なら, ので et のに selon la restitution. La préparation grammar-condition-ba est vérifiée et aucune donnée d’apprentissage fictive n’est enregistrée. (17 October 2026)
+
+## Audit de complétude 1.1.0 (17 October 2026)
+
+- Audit terminé, application non complète à 100 %. Reprise accompagnée après L111 disponible ; aucune restitution ni maîtrise inventée. Rapport : /Users/zenray/.claude/Memory1/Projects/zenray-japanese/Audit1.1.0-17-October-2026.md. (17 October 2026)
+- Preuves fraîches : 65 tests ciblés réussis ; catalogue distant identique, 439 fiches ; 44 points N5 ouverts sur le référentiel de 132 ; 750 entrées sans français et 149 jōyō sans français. Revues par modèles distinctes d’une certification humaine. (17 October 2026)
+- Défauts reproduits en environnement isolé : conflit de note conservant le texte mais bloquant sa sauvegarde après rechargement ; une seconde instance Assets peut remplacer des reçus récents par son ancien état. Deux services réels sur 3000 et 3100 observés ; aucune perte distante affirmée. (17 October 2026)
+- Priorités proposées : couverture et français, résolution des conflits de notes, cohérence des reçus Assets, pratique orale et révisions des références, reprise guidée et chargement par niveau. Les 47 fichiers de livraison sélectionnés concordent avec leurs reçus à 23:26:36 CEST, sans certification de l’archive globale. (17 October 2026)

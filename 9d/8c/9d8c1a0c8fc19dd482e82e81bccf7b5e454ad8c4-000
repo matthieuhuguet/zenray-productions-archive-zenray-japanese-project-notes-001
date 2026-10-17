@@ -601,3 +601,31 @@
 > | Prochaine leçon prête | Oui | Préparation validée de ば | (17 October 2026, 22:24:20 +0200)
 > | Corpus entièrement complet | Non | 750 traductions et 149 sens de kanji manquent | (17 October 2026, 22:24:20 +0200)
 > | Tout sauvegarder | Presque | Tout poussé sur GitHub ; copie Assets de quatre documents encore en cours | (17 October 2026, 22:24:20 +0200)
+
+## 17 October 2026, 23:28:34 +0200 : Iteration
+
+<!-- feedback-event:2fb1f83e299c7eaa127ad9b4e15871d57660d6faa9d0abda522d0f7cc6097e31 (17 October 2026, 23:28:34 +0200) -->
+- Project: zenray-japanese; kind: iteration. (17 October 2026, 23:28:34 +0200)
+- Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (17 October 2026, 23:28:34 +0200)
+
+> Audit 1.1.0 terminé : reprise accompagnée après L111 possible, application et cursus non complets ; 65 tests ciblés réussis, catalogue distant 439 fiches identique. Deux défauts reproduits hors production : conflit de note et reçus Assets écrasables entre instances ; cinq améliorations documentées dans Audit1.1.0-17-October-2026.md. Zéro écriture apprenant. Prochain : leçon après L111 selon retest ; couverture exhaustive et clôture archive globale restent ouvertes. (17 October 2026, 23:28:34 +0200)
+
+## 17 October 2026, 23:29:11 +0200 : Iteration
+
+<!-- feedback-event:e0b69d9438fe9797b53816bfda7bfa49e455247ee8579e2e10a177371aeb7f17 (17 October 2026, 23:29:11 +0200) -->
+- Project: zenray-japanese; kind: iteration. (17 October 2026, 23:29:11 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (17 October 2026, 23:29:11 +0200)
+
+> **Tu peux reprendre tes leçons dès le prochain prompt**, en écrivant « On reprend le japonais ». Nous repartons après L111, avec un retest oral, puis ば et なら selon tes réponses. (17 October 2026, 23:29:11 +0200)
+>
+> L’application 1.1.0 est en ligne et les **65 tests japonais ciblés passent**, mais tout n’est pas terminé à 100 %. (17 October 2026, 23:29:11 +0200)
+>
+> | Ce que tu veux | État | Preuve | (17 October 2026, 23:29:11 +0200)
+> |---|---|---| (17 October 2026, 23:29:11 +0200)
+> | Cursus complet | Incomplet | 44 points N5 ouverts ; 750 mots et 149 jōyō sans français | (17 October 2026, 23:29:11 +0200)
+> | Notes fiables | Partiel | Conflit de sauvegarde reproduit, texte conservé | (17 October 2026, 23:29:11 +0200)
+> | Pratique orale intégrée | Partiel | Exercices autoévalués ; outil oral encore séparé | (17 October 2026, 23:29:11 +0200)
+> | Reprise fluide | Partiel | L111 retrouvée ; reprise automatique à améliorer | (17 October 2026, 23:29:11 +0200)
+> | Tout archivé | Incertain | 47 fichiers sélectionnés concordent, mais défaut de concurrence Assets confirmé | (17 October 2026, 23:29:11 +0200)
+>
+> L’[audit détaillé et les corrections prioritaires](/Users/zenray/.claude/Memory1/Projects/zenray-japanese/Audit1.1.0-17-October-2026.md) sont sauvegardés et poussés sur Git. Audit terminé en environ neuf minutes ; ces améliorations ne bloquent pas tes prochaines leçons. (17 October 2026, 23:29:11 +0200)

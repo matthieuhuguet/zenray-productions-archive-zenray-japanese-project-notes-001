@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-17T20:24:36.534Z",
+ "scannedAt": "2026-10-17T21:29:37.340Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
-   "lines": 1397,
-   "work": 691,
-   "prompts": 5,
+   "lines": 1469,
+   "work": 725,
+   "prompts": 6,
    "first": "2026-10-12T12:35:57.154Z",
-   "last": "2026-10-17T20:24:15.629Z",
+   "last": "2026-10-17T21:29:11.125Z",
    "strength": "strong",
    "conversationId": "codex:01a1301b-f199-7773-863c-b2a78d50b909",
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-17T20:24:20.808Z",
-   "bytes": 39628303,
+   "updatedAt": "2026-10-17T21:29:11.125Z",
+   "bytes": 41042117,
    "boundProject": "zenray-japanese"
   },
   {
