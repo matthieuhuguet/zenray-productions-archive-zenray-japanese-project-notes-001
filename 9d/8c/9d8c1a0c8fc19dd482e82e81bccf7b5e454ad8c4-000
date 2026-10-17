@@ -568,3 +568,36 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (16 October 2026, 14:32:12 +0200)
 
 > Il faut finir proprement et upload tout maintenant go (16 October 2026, 14:32:12 +0200)
+
+## 17 October 2026, 22:16:21 +0200 : Prompt
+
+<!-- feedback-event:739ab38366a248ebcda686a2401d6c6917154f6c951c1cea857b82a58075c435 (17 October 2026, 22:16:21 +0200) -->
+- Project: zenray-japanese; kind: prompt. (17 October 2026, 22:16:21 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (17 October 2026, 22:16:21 +0200)
+
+> tout est fini proprement ? je veux pouvoir dès le prochain prompt continuer mes leçons de japonais et avancer (17 October 2026, 22:16:21 +0200)
+
+## 17 October 2026, 22:17:47 +0200 : Iteration
+
+<!-- feedback-event:833a4bdb2b64865b5cec98ea97198cb45b211587021b3faea819f0b724f02cb9 (17 October 2026, 22:17:47 +0200) -->
+- Project: zenray-japanese; kind: iteration. (17 October 2026, 22:17:47 +0200)
+- Source: checkpoint:codex:01a1301b-f199-7773-863c-b2a78d50b909. (17 October 2026, 22:17:47 +0200)
+
+> Application1.1.0 livrée,2585tests passés et production relue le17October2026 : code actuel et9fichiers de références exacts, API notes protégée, aucune séance fictive. Références16086mots,237kana et2136joyo, bibliothèque libre, catégories historiques et carnet. Reprise immédiatement aprèsL111 : retest oral puisば/なら, ensuiteので/のに ; préparation grammar-condition-ba réussie. Corpus complet toujours ouvert :750traductions de vocabulaire,149sens de kanji et44points N5 manquent. Documentation Release1.1.0.md, preuve Release110ProductionProof.json et ResumeCorpus.md actualisés. Dernier archivage et contrôle des sources actuelles en cours. (17 October 2026, 22:17:47 +0200)
+
+## 17 October 2026, 22:24:20 +0200 : Iteration
+
+<!-- feedback-event:c6648deefdcb75db832f9f45f3814720e0df8f9c4b24275415e768e4d0d4b6f4 (17 October 2026, 22:24:20 +0200) -->
+- Project: zenray-japanese; kind: iteration. (17 October 2026, 22:24:20 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/12/rollout-2026-10-12T14-35-00-01a1301b-f199-7773-863c-b2a78d50b909.jsonl. (17 October 2026, 22:24:20 +0200)
+
+> **Tu peux reprendre tes leçons dès le prochain prompt.** La version **1.1.0** est en ligne dans [Learn → Japanese](https://zenray-progress.pages.dev). (17 October 2026, 22:24:20 +0200)
+>
+> Écris simplement **« On reprend les leçons »** : je reprends après L111, avec un retest oral puis **ば**, suivi de **なら**, selon tes réponses. (17 October 2026, 22:24:20 +0200)
+>
+> | Ta demande | État | Preuve | (17 October 2026, 22:24:20 +0200)
+> |---|---|---| (17 October 2026, 22:24:20 +0200)
+> | Application utilisable | Oui | Production vérifiée, 2 585 tests réussis | (17 October 2026, 22:24:20 +0200)
+> | Prochaine leçon prête | Oui | Préparation validée de ば | (17 October 2026, 22:24:20 +0200)
+> | Corpus entièrement complet | Non | 750 traductions et 149 sens de kanji manquent | (17 October 2026, 22:24:20 +0200)
+> | Tout sauvegarder | Presque | Tout poussé sur GitHub ; copie Assets de quatre documents encore en cours | (17 October 2026, 22:24:20 +0200)
