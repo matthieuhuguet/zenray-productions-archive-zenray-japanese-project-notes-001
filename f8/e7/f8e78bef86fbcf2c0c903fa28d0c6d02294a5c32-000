@@ -46,3 +46,8 @@
 - 71 nouvelles fiches et 142 exemples reçoivent deux revues indépendantes concordantes sur leurs empreintes actuelles ; 71 leçons sont préparées et un texte altéré est refusé. Les 322 fiches éditoriales actuelles sont approuvées par modèles, sans certification native ou humaine. (14 October 2026)
 - Corpus compilé c435ff1680c0c97b : 276127 enregistrements, 228 fiches grammaticales, N5 52, N4 39, N3 48, N2 48, N1 41 ; mapping complet et recherche réels vérifiés. Couverture complète des cinq niveaux et au-delà toujours ouverte. Aucun acquis ni séance de Japanese1 inventés. (14 October 2026)
 - Snapshot de reprise de 24 fichiers avec SHA256 dans Japanese/Corpus/ExpansionCheckpoint/14-October-2026 ; atelier canonique conservé. Le manifeste de couverture reste un brouillon, ses emplacements quantitatifs sont provisoires et ses liens de couverture non audités ; ne pas le traiter comme une certification 100 %. Archive Assets intégrale non confirmée. (14 October 2026)
+
+## Application 1.1.0 et reprise pédagogique (17 October 2026)
+
+- Version 1.1.0 livrée : vocabulaire de référence français-japonais par appartenances communautaires N5 à N1, kana classés, 2 136 jōyō ordonnés, accès libre aux fiches validées, entraînement libre, catégories/favoris historiques et éditoriaux, carnet personnel. Documents Release1.1.0.md et ResumeCorpus.md gouvernent la reprise ; la couverture complète reste distincte. (17 October 2026)
+- Au prochain prompt de leçon, reprendre après L111 : retest oral puis ば, なら, ので et のに selon la restitution. La préparation grammar-condition-ba est vérifiée et aucune donnée d’apprentissage fictive n’est enregistrée. (17 October 2026)
