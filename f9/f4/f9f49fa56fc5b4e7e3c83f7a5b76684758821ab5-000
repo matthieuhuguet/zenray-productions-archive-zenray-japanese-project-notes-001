@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-18T20:43:56.798Z",
+ "scannedAt": "2026-10-18T21:00:57.839Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -815,8 +815,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-18T20:43:47.539Z",
-   "bytes": 388720702,
+   "updatedAt": "2026-10-18T21:00:53.656Z",
+   "bytes": 22312,
    "boundProject": null
   },
   {
