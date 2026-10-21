@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-20T22:59:41.216Z",
+ "scannedAt": "2026-10-21T10:26:56.673Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -327,6 +327,22 @@
    "projectId": "zenray-japanese",
    "lines": 4,
    "work": 1,
+   "prompts": 2,
+   "first": "2026-10-20T12:41:00.608Z",
+   "last": "2026-10-20T21:33:28.254Z",
+   "strength": "strong",
+   "conversationId": "codex:01a15924-aa22-7300-9533-52fc3fd3f30f",
+   "provider": "codex",
+   "sessionId": "01a15924-aa22-7300-9533-52fc3fd3f30f",
+   "title": "Conversation codex 01a15924",
+   "updatedAt": "2026-10-21T01:15:31.612Z",
+   "bytes": 44441169,
+   "boundProject": "uv-match-height-20-october-2026"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 4,
+   "work": 1,
    "prompts": 1,
    "first": "2026-10-20T16:30:34.768Z",
    "last": "2026-10-20T22:28:46.379Z",
@@ -338,22 +354,6 @@
    "updatedAt": "2026-10-20T22:31:45.528Z",
    "bytes": 38921120,
    "boundProject": "zenray-progress"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 4,
-   "work": 1,
-   "prompts": 2,
-   "first": "2026-10-20T12:41:00.608Z",
-   "last": "2026-10-20T21:33:28.254Z",
-   "strength": "strong",
-   "conversationId": "codex:01a15924-aa22-7300-9533-52fc3fd3f30f",
-   "provider": "codex",
-   "sessionId": "01a15924-aa22-7300-9533-52fc3fd3f30f",
-   "title": "Conversation codex 01a15924",
-   "updatedAt": "2026-10-20T21:34:09.420Z",
-   "bytes": 44430966,
-   "boundProject": "uv-match-height-20-october-2026"
   },
   {
    "projectId": "zenray-japanese",
@@ -389,18 +389,18 @@
   },
   {
    "projectId": "zenray-japanese",
-   "lines": 6,
+   "lines": 7,
    "work": 0,
    "prompts": 4,
    "first": "2026-10-17T15:02:22.209Z",
-   "last": "2026-10-20T22:41:56.373Z",
+   "last": "2026-10-21T09:58:10.163Z",
    "strength": "strong",
    "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
-   "title": "StudioPhoto",
-   "updatedAt": "2026-10-20T22:59:13.610Z",
-   "bytes": 43877,
+   "title": "StudioPhoto Enhancing Assets",
+   "updatedAt": "2026-10-21T10:26:54.761Z",
+   "bytes": 31897793,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
@@ -655,8 +655,8 @@
    "provider": "claude",
    "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "title": "CONSIGNER LE SHARINGAN",
-   "updatedAt": "2026-10-20T22:52:11.363Z",
-   "bytes": 5482060,
+   "updatedAt": "2026-10-21T10:06:45.761Z",
+   "bytes": 33539,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
   },
   {
