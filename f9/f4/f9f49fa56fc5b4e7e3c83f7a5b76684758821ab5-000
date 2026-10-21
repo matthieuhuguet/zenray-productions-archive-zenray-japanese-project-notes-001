@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-21T10:54:56.347Z",
+ "scannedAt": "2026-10-21T12:37:57.696Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -399,8 +399,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T10:53:53.859Z",
-   "bytes": 38631,
+   "updatedAt": "2026-10-21T12:37:53.612Z",
+   "bytes": 33639292,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
