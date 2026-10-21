@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-21T14:42:35.533Z",
+ "scannedAt": "2026-10-21T14:45:35.792Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -399,8 +399,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T14:40:51.651Z",
-   "bytes": 38171,
+   "updatedAt": "2026-10-21T14:44:16.435Z",
+   "bytes": 38430,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
@@ -648,6 +648,22 @@
    "lines": 2,
    "work": 0,
    "prompts": 1,
+   "first": "2026-10-21T14:05:52.208Z",
+   "last": "2026-10-21T14:44:53.845Z",
+   "strength": "weak",
+   "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
+   "provider": "claude",
+   "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
+   "title": "UV Methodology (fork)",
+   "updatedAt": "2026-10-21T14:45:31.503Z",
+   "bytes": 40498,
+   "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 1,
    "first": "2026-10-20T11:50:05.008Z",
    "last": "2026-10-20T11:50:05.008Z",
    "strength": "weak",
@@ -738,22 +754,6 @@
    "updatedAt": "2026-09-30T10:58:03.807Z",
    "bytes": 22075,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 1,
-   "work": 0,
-   "prompts": 1,
-   "first": "2026-10-21T14:05:52.208Z",
-   "last": "2026-10-21T14:05:52.208Z",
-   "strength": "weak",
-   "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
-   "provider": "claude",
-   "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T14:41:57.104Z",
-   "bytes": 40549,
-   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "zenray-japanese",
