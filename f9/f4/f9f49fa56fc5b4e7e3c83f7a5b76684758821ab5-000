@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T11:47:44.098Z",
+ "scannedAt": "2026-10-22T11:54:44.470Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -479,8 +479,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T11:47:29.793Z",
-   "bytes": 381935650,
+   "updatedAt": "2026-10-22T11:54:34.169Z",
+   "bytes": 382200265,
    "boundProject": "louisiana-bayou"
   },
   {
