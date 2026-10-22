@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T17:01:44.723Z",
+ "scannedAt": "2026-10-22T17:05:44.646Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -559,8 +559,8 @@
    "provider": "claude",
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T16:54:30.797Z",
-   "bytes": 3838952,
+   "updatedAt": "2026-10-22T17:04:32.946Z",
+   "bytes": 38245,
    "boundProject": null
   },
   {
