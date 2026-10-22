@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T21:27:47.753Z",
+ "scannedAt": "2026-10-22T21:41:47.003Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -479,8 +479,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T20:59:10.936Z",
-   "bytes": 40588,
+   "updatedAt": "2026-10-22T21:40:46.245Z",
+   "bytes": 40555,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -527,8 +527,8 @@
    "provider": "claude",
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T21:21:02.138Z",
-   "bytes": 4627308,
+   "updatedAt": "2026-10-22T21:41:35.359Z",
+   "bytes": 4699945,
    "boundProject": null
   },
   {
@@ -783,8 +783,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-21T17:35:38.763Z",
-   "bytes": 22332,
+   "updatedAt": "2026-10-22T21:41:44.776Z",
+   "bytes": 407168113,
    "boundProject": null
   },
   {
