@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T11:02:41.652Z",
+ "scannedAt": "2026-10-22T11:11:42.244Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -469,18 +469,18 @@
   },
   {
    "projectId": "zenray-japanese",
-   "lines": 16,
+   "lines": 17,
    "work": 0,
    "prompts": 1,
    "first": "2026-10-21T14:05:52.208Z",
-   "last": "2026-10-22T10:35:56.167Z",
+   "last": "2026-10-22T11:11:12.906Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T11:02:20.422Z",
-   "bytes": 376777733,
+   "updatedAt": "2026-10-22T11:11:41.097Z",
+   "bytes": 377499938,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -546,6 +546,22 @@
    "updatedAt": "2026-10-07T09:05:28.740Z",
    "bytes": 23255,
    "boundProject": "zenray-freelance"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 3,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-22T10:38:02.229Z",
+   "last": "2026-10-22T11:06:06.575Z",
+   "strength": "weak",
+   "conversationId": "claude:c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
+   "provider": "claude",
+   "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
+   "title": "Iphone Photos",
+   "updatedAt": "2026-10-22T11:10:46.414Z",
+   "bytes": 3365039,
+   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
@@ -657,22 +673,6 @@
    "title": "ZenRayHoudini",
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20765,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 2,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-22T10:38:02.229Z",
-   "last": "2026-10-22T10:38:52.008Z",
-   "strength": "weak",
-   "conversationId": "claude:c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
-   "provider": "claude",
-   "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
-   "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T11:02:05.697Z",
-   "bytes": 3171120,
    "boundProject": null
   },
   {
