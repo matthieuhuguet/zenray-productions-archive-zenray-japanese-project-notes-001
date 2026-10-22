@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T17:05:44.646Z",
+ "scannedAt": "2026-10-22T17:56:44.734Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -519,6 +519,22 @@
    "projectId": "zenray-japanese",
    "lines": 5,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-10-22T10:38:02.229Z",
+   "last": "2026-10-22T17:55:52.346Z",
+   "strength": "weak",
+   "conversationId": "claude:c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
+   "provider": "claude",
+   "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
+   "title": "Iphone Photos",
+   "updatedAt": "2026-10-22T17:56:28.314Z",
+   "bytes": 4023108,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 5,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-13T23:13:40.711Z",
    "last": "2026-10-13T23:23:03.606Z",
@@ -546,22 +562,6 @@
    "updatedAt": "2026-10-07T09:05:28.740Z",
    "bytes": 23255,
    "boundProject": "zenray-freelance"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 3,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-22T10:38:02.229Z",
-   "last": "2026-10-22T11:06:06.575Z",
-   "strength": "weak",
-   "conversationId": "claude:c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
-   "provider": "claude",
-   "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
-   "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T17:04:32.946Z",
-   "bytes": 38245,
-   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
