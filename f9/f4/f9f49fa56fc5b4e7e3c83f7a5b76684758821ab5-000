@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-22T22:30:47.593Z",
+ "scannedAt": "2026-10-23T11:24:29.667Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -33,294 +33,6 @@
    "title": "Conversation codex 01a13ecc",
    "updatedAt": "2026-10-16T12:19:54.013Z",
    "bytes": 2860545,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 53,
-   "work": 27,
-   "prompts": 0,
-   "first": "2026-10-14T19:17:13.392Z",
-   "last": "2026-10-14T19:22:16.767Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13bd8-ca4d-7f32-bb5f-757a23b17de1",
-   "provider": "codex",
-   "sessionId": "01a13bd8-ca4d-7f32-bb5f-757a23b17de1",
-   "title": "Conversation codex 01a13bd8",
-   "updatedAt": "2026-10-14T19:22:16.767Z",
-   "bytes": 1162907,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 52,
-   "work": 27,
-   "prompts": 0,
-   "first": "2026-10-14T20:26:23.021Z",
-   "last": "2026-10-14T20:30:31.261Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c18-2726-7342-bab7-34fd23abacc3",
-   "provider": "codex",
-   "sessionId": "01a13c18-2726-7342-bab7-34fd23abacc3",
-   "title": "Conversation codex 01a13c18",
-   "updatedAt": "2026-10-14T20:30:31.261Z",
-   "bytes": 973814,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 56,
-   "work": 26,
-   "prompts": 0,
-   "first": "2026-10-14T19:59:29.348Z",
-   "last": "2026-10-14T20:09:02.059Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13bff-7a88-7123-bee3-5db2ece6d838",
-   "provider": "codex",
-   "sessionId": "01a13bff-7a88-7123-bee3-5db2ece6d838",
-   "title": "Conversation codex 01a13bff",
-   "updatedAt": "2026-10-14T20:09:02.059Z",
-   "bytes": 900734,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 45,
-   "work": 23,
-   "prompts": 0,
-   "first": "2026-10-14T19:22:41.619Z",
-   "last": "2026-10-14T19:29:49.999Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13bdd-d034-70a0-b559-0938ee2b7003",
-   "provider": "codex",
-   "sessionId": "01a13bdd-d034-70a0-b559-0938ee2b7003",
-   "title": "Conversation codex 01a13bdd",
-   "updatedAt": "2026-10-14T19:29:49.999Z",
-   "bytes": 1384679,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 43,
-   "work": 23,
-   "prompts": 0,
-   "first": "2026-10-14T20:22:04.191Z",
-   "last": "2026-10-14T20:26:03.900Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c14-3299-70d2-a261-e13086ca2630",
-   "provider": "codex",
-   "sessionId": "01a13c14-3299-70d2-a261-e13086ca2630",
-   "title": "Conversation codex 01a13c14",
-   "updatedAt": "2026-10-14T20:26:03.900Z",
-   "bytes": 1032631,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 51,
-   "work": 22,
-   "prompts": 1,
-   "first": "2026-10-14T10:38:58.370Z",
-   "last": "2026-10-14T10:50:59.848Z",
-   "strength": "strong",
-   "conversationId": "codex:01a139fe-6f18-7b63-b154-2aa8ad7d92ef",
-   "provider": "codex",
-   "sessionId": "01a139fe-6f18-7b63-b154-2aa8ad7d92ef",
-   "title": "Conversation codex 01a139fe",
-   "updatedAt": "2026-10-14T10:50:59.848Z",
-   "bytes": 1732554,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 43,
-   "work": 20,
-   "prompts": 0,
-   "first": "2026-10-14T21:17:02.039Z",
-   "last": "2026-10-15T07:55:14.488Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c46-84d9-7f21-a3cb-381e58b6cd6f",
-   "provider": "codex",
-   "sessionId": "01a13c46-84d9-7f21-a3cb-381e58b6cd6f",
-   "title": "Conversation codex 01a13c46",
-   "updatedAt": "2026-10-15T07:55:14.488Z",
-   "bytes": 971217,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 43,
-   "work": 20,
-   "prompts": 0,
-   "first": "2026-10-14T15:07:27.654Z",
-   "last": "2026-10-14T15:15:08.843Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13af4-214b-7493-b3f5-faf49de171de",
-   "provider": "codex",
-   "sessionId": "01a13af4-214b-7493-b3f5-faf49de171de",
-   "title": "Conversation codex 01a13af4",
-   "updatedAt": "2026-10-14T15:15:08.843Z",
-   "bytes": 944874,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 38,
-   "work": 19,
-   "prompts": 0,
-   "first": "2026-10-14T21:02:48.570Z",
-   "last": "2026-10-14T21:07:07.541Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c39-769f-7372-a26b-b619b8dd1611",
-   "provider": "codex",
-   "sessionId": "01a13c39-769f-7372-a26b-b619b8dd1611",
-   "title": "Conversation codex 01a13c39",
-   "updatedAt": "2026-10-14T21:07:07.541Z",
-   "bytes": 1169797,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 39,
-   "work": 18,
-   "prompts": 0,
-   "first": "2026-10-14T20:49:52.564Z",
-   "last": "2026-10-14T20:57:20.045Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c2d-99de-71e0-90b8-efc4f1b1d86b",
-   "provider": "codex",
-   "sessionId": "01a13c2d-99de-71e0-90b8-efc4f1b1d86b",
-   "title": "Conversation codex 01a13c2d",
-   "updatedAt": "2026-10-14T20:57:20.045Z",
-   "bytes": 890771,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 37,
-   "work": 18,
-   "prompts": 0,
-   "first": "2026-10-15T07:55:29.202Z",
-   "last": "2026-10-15T07:57:56.629Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13e8f-0972-74d2-baea-4f6fcdf5cb4a",
-   "provider": "codex",
-   "sessionId": "01a13e8f-0972-74d2-baea-4f6fcdf5cb4a",
-   "title": "Conversation codex 01a13e8f",
-   "updatedAt": "2026-10-15T07:57:56.629Z",
-   "bytes": 884712,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 37,
-   "work": 18,
-   "prompts": 0,
-   "first": "2026-10-14T19:39:12.444Z",
-   "last": "2026-10-14T19:43:34.187Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13bec-d8a4-7551-a10c-18b7018f5abe",
-   "provider": "codex",
-   "sessionId": "01a13bec-d8a4-7551-a10c-18b7018f5abe",
-   "title": "Conversation codex 01a13bec",
-   "updatedAt": "2026-10-14T19:43:34.187Z",
-   "bytes": 802329,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 38,
-   "work": 17,
-   "prompts": 0,
-   "first": "2026-10-14T15:01:05.719Z",
-   "last": "2026-10-14T15:06:36.613Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13aee-3a46-72d1-b32b-c2e0cfb7a6ab",
-   "provider": "codex",
-   "sessionId": "01a13aee-3a46-72d1-b32b-c2e0cfb7a6ab",
-   "title": "Conversation codex 01a13aee",
-   "updatedAt": "2026-10-14T15:06:36.613Z",
-   "bytes": 760462,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 31,
-   "work": 16,
-   "prompts": 0,
-   "first": "2026-10-14T20:09:24.028Z",
-   "last": "2026-10-14T20:11:36.378Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c08-9b1c-77a1-b9c5-1206f93b9ed2",
-   "provider": "codex",
-   "sessionId": "01a13c08-9b1c-77a1-b9c5-1206f93b9ed2",
-   "title": "Conversation codex 01a13c08",
-   "updatedAt": "2026-10-14T20:11:36.378Z",
-   "bytes": 822953,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 35,
-   "work": 15,
-   "prompts": 0,
-   "first": "2026-10-14T20:57:34.327Z",
-   "last": "2026-10-14T21:00:19.911Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c34-aed4-7882-a200-4f1da75c847b",
-   "provider": "codex",
-   "sessionId": "01a13c34-aed4-7882-a200-4f1da75c847b",
-   "title": "Conversation codex 01a13c34",
-   "updatedAt": "2026-10-14T21:00:19.911Z",
-   "bytes": 1011277,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 35,
-   "work": 15,
-   "prompts": 1,
-   "first": "2026-10-14T10:46:16.904Z",
-   "last": "2026-10-14T10:51:39.477Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13a05-2021-7ac0-8bd2-1304c104d045",
-   "provider": "codex",
-   "sessionId": "01a13a05-2021-7ac0-8bd2-1304c104d045",
-   "title": "Conversation codex 01a13a05",
-   "updatedAt": "2026-10-14T10:51:39.477Z",
-   "bytes": 1510398,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 27,
-   "work": 12,
-   "prompts": 0,
-   "first": "2026-10-14T21:07:23.887Z",
-   "last": "2026-10-14T21:10:35.894Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13c3d-b1f6-7400-9ffd-880db0b3832c",
-   "provider": "codex",
-   "sessionId": "01a13c3d-b1f6-7400-9ffd-880db0b3832c",
-   "title": "Conversation codex 01a13c3d",
-   "updatedAt": "2026-10-14T21:10:35.894Z",
-   "bytes": 989762,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 21,
-   "work": 10,
-   "prompts": 0,
-   "first": "2026-10-14T19:43:56.668Z",
-   "last": "2026-10-14T19:46:06.210Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13bf1-46c0-7581-8694-4ab8aaef6337",
-   "provider": "codex",
-   "sessionId": "01a13bf1-46c0-7581-8694-4ab8aaef6337",
-   "title": "Conversation codex 01a13bf1",
-   "updatedAt": "2026-10-14T19:46:06.210Z",
-   "bytes": 828547,
    "boundProject": null
   },
   {
@@ -368,7 +80,7 @@
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
    "updatedAt": "2026-10-11T14:07:03.057Z",
-   "bytes": 23936,
+   "bytes": 23937,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -389,35 +101,19 @@
   },
   {
    "projectId": "zenray-japanese",
-   "lines": 7,
+   "lines": 9,
    "work": 0,
-   "prompts": 4,
+   "prompts": 5,
    "first": "2026-10-17T15:02:22.209Z",
-   "last": "2026-10-21T09:58:10.163Z",
+   "last": "2026-10-23T11:09:37.355Z",
    "strength": "strong",
    "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
-   "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T17:14:21.465Z",
-   "bytes": 38528,
+   "title": "studio photos",
+   "updatedAt": "2026-10-23T11:17:19.759Z",
+   "bytes": 38507,
    "boundProject": "studiophoto-matthieu-17-october-2026"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-13T18:50:12.106Z",
-   "last": "2026-10-13T18:50:12.109Z",
-   "strength": "weak",
-   "conversationId": "codex:01a13699-a7ed-70e1-8dec-195a33900e86",
-   "provider": "codex",
-   "sessionId": "01a13699-a7ed-70e1-8dec-195a33900e86",
-   "title": "Conversation codex 01a13699",
-   "updatedAt": "2026-10-13T22:11:29.810Z",
-   "bytes": 5648209,
-   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
@@ -430,8 +126,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -446,8 +142,8 @@
    "conversationId": "gemini:6adab64c-b854-4265-89cd-caf7321d2593",
    "provider": "gemini",
    "sessionId": "6adab64c-b854-4265-89cd-caf7321d2593",
-   "title": "Conversation Gemini 6adab64c",
-   "updatedAt": "2026-10-14T11:14:34.955Z",
+   "title": "donne moi les liens de tout qui je suis openable sur finder pour que je puisse les copier rapidement",
+   "updatedAt": "2026-10-14T11:13:48.956225+00:00",
    "bytes": 2981888,
    "boundProject": null
   },
@@ -462,25 +158,25 @@
    "conversationId": "gemini:2b1f8292-9a75-4e76-a8db-5ab8034769db",
    "provider": "gemini",
    "sessionId": "2b1f8292-9a75-4e76-a8db-5ab8034769db",
-   "title": "Conversation Gemini 2b1f8292",
-   "updatedAt": "2026-10-14T10:40:55.894Z",
+   "title": "/Users/zenray/Downloads/Invoice-9BF0758D-1243877.pdf l'adresse mhzenray@gmail.com est mauvaise remplace la par matth.huguet@gmail.com fast s",
+   "updatedAt": "2026-10-14T10:39:58.768871+00:00",
    "bytes": 2162688,
    "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
-   "lines": 28,
+   "lines": 29,
    "work": 0,
    "prompts": 1,
    "first": "2026-10-21T14:05:52.208Z",
-   "last": "2026-10-22T16:58:52.420Z",
+   "last": "2026-10-23T11:09:29.698Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T21:40:46.245Z",
-   "bytes": 40555,
+   "title": "zenray uv",
+   "updatedAt": "2026-10-23T11:23:33.797Z",
+   "bytes": 409379618,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -496,7 +192,7 @@
    "sessionId": "5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
    "title": "performance assets and drive",
    "updatedAt": "2026-10-15T07:02:22.911Z",
-   "bytes": 34516,
+   "bytes": 34517,
    "boundProject": "zenray-progress"
   },
   {
@@ -512,7 +208,7 @@
    "sessionId": "20b28879-0c00-47e2-8e56-f2cd9a671404",
    "title": "Learn Texturing and Freelance",
    "updatedAt": "2026-09-23T17:08:49.694Z",
-   "bytes": 79105,
+   "bytes": 79106,
    "boundProject": null
   },
   {
@@ -528,7 +224,7 @@
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
    "updatedAt": "2026-10-22T22:30:23.100Z",
-   "bytes": 38258,
+   "bytes": 38259,
    "boundProject": null
   },
   {
@@ -560,7 +256,7 @@
    "sessionId": "5fd92a10-03f3-4126-89e0-4dfe033274bd",
    "title": "Zenray Freelance automation",
    "updatedAt": "2026-10-07T09:05:28.740Z",
-   "bytes": 23255,
+   "bytes": 23256,
    "boundProject": "zenray-freelance"
   },
   {
@@ -576,7 +272,7 @@
    "sessionId": "fc4febb5-8a38-4c74-8919-9a72175d0d7e",
    "title": "DRIVE evolution (fork)",
    "updatedAt": "2026-10-14T19:11:34.636Z",
-   "bytes": 21050,
+   "bytes": 21051,
    "boundProject": null
   },
   {
@@ -592,7 +288,7 @@
    "sessionId": "ff2c4a10-5024-4fbb-917a-0b2ac5886f52",
    "title": "Design Lecteur Video",
    "updatedAt": "2026-10-14T13:45:00.698Z",
-   "bytes": 21122,
+   "bytes": 21123,
    "boundProject": null
   },
   {
@@ -624,7 +320,7 @@
    "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
    "title": "ZENRAY HEIGHT",
    "updatedAt": "2026-10-12T04:52:19.855Z",
-   "bytes": 21121,
+   "bytes": 21122,
    "boundProject": "zenray-height"
   },
   {
@@ -640,7 +336,7 @@
    "sessionId": "49007c79-a3af-4601-8cec-fd77bc841f6b",
    "title": "ZenRayWebsite",
    "updatedAt": "2026-10-03T11:52:28.263Z",
-   "bytes": 22793,
+   "bytes": 22794,
    "boundProject": null
   },
   {
@@ -672,7 +368,7 @@
    "sessionId": "5f649d7d-3f0b-4e40-9aeb-39c6fa2e2eab",
    "title": "ZenRayHoudini",
    "updatedAt": "2026-09-15T15:03:58.525Z",
-   "bytes": 20765,
+   "bytes": 20766,
    "boundProject": null
   },
   {
@@ -688,7 +384,7 @@
    "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "title": "CONSIGNER LE SHARINGAN",
    "updatedAt": "2026-10-21T10:06:45.761Z",
-   "bytes": 33539,
+   "bytes": 33540,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
   },
   {
@@ -704,7 +400,7 @@
    "sessionId": "97dafd1e-ddee-454d-997b-6216fe6d4064",
    "title": "ZENRAY HEIGHT (fork)",
    "updatedAt": "2026-10-11T21:28:15.851Z",
-   "bytes": 21082,
+   "bytes": 21083,
    "boundProject": "zenray-height"
   },
   {
@@ -720,7 +416,7 @@
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "MOTION DESIGN",
    "updatedAt": "2026-10-11T15:18:28.747Z",
-   "bytes": 21086,
+   "bytes": 21087,
    "boundProject": "zenray-motion-design-01"
   },
   {
@@ -752,7 +448,7 @@
    "sessionId": "b72636b1-7699-47eb-aedc-f039428ca295",
    "title": "Photos Project",
    "updatedAt": "2026-10-04T09:10:38.483Z",
-   "bytes": 22652,
+   "bytes": 22653,
    "boundProject": null
   },
   {
@@ -782,9 +478,9 @@
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
-   "title": "3 motion design and editing video",
+   "title": "zenray motion design",
    "updatedAt": "2026-10-22T22:09:46.176Z",
-   "bytes": 22339,
+   "bytes": 22379,
    "boundProject": null
   },
   {
@@ -864,7 +560,7 @@
    "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
    "title": "ZENRAY ASSETS",
    "updatedAt": "2026-10-11T22:51:54.267Z",
-   "bytes": 20971,
+   "bytes": 20972,
    "boundProject": null
   },
   {
@@ -880,7 +576,7 @@
    "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
    "title": "LOUISIANA BAYOU",
    "updatedAt": "2026-10-11T15:13:10.697Z",
-   "bytes": 20964,
+   "bytes": 20965,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -912,7 +608,7 @@
    "sessionId": "6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
    "title": "Installation Blender macOS",
    "updatedAt": "2026-10-11T11:39:10.426Z",
-   "bytes": 20865,
+   "bytes": 20866,
    "boundProject": "conversation-claude-3918c05f2e72431e7521d763"
   },
   {
@@ -928,7 +624,7 @@
    "sessionId": "5be85b54-ff94-4c79-8cab-7131103e6d68",
    "title": "Zenray design view link bug",
    "updatedAt": "2026-10-10T21:32:46.778Z",
-   "bytes": 21010,
+   "bytes": 21011,
    "boundProject": null
   },
   {
@@ -976,7 +672,7 @@
    "sessionId": "d955fbe0-b2a6-4fd7-a4d4-b73cb0f18add",
    "title": "malware",
    "updatedAt": "2026-10-07T07:12:42.561Z",
-   "bytes": 19200,
+   "bytes": 19201,
    "boundProject": null
   },
   {
@@ -1088,7 +784,7 @@
    "sessionId": "63cb7261-4402-48bb-91b9-2c77236ea4e9",
    "title": "ZenRayCareer",
    "updatedAt": "2026-09-23T12:13:10.063Z",
-   "bytes": 22478,
+   "bytes": 22479,
    "boundProject": null
   },
   {
@@ -1120,7 +816,7 @@
    "sessionId": "2e45bce7-6e52-48b7-b5d2-b49269170f28",
    "title": "Réflexion sur la freelance et se vendre par rapport au fait que j'ai déjà le produit",
    "updatedAt": "2026-09-17T17:02:04.910Z",
-   "bytes": 75553,
+   "bytes": 22838,
    "boundProject": null
   },
   {
@@ -1152,7 +848,7 @@
    "sessionId": "60d4fc84-ff82-40eb-a470-9dd232cfd5ff",
    "title": "ZenRayStudio / GarbageCollector",
    "updatedAt": "2026-09-15T20:28:21.014Z",
-   "bytes": 12958,
+   "bytes": 12959,
    "boundProject": null
   },
   {
