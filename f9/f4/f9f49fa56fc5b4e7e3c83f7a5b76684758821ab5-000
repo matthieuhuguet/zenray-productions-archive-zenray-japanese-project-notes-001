@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-23T22:22:29.559Z",
+ "scannedAt": "2026-10-23T22:24:29.649Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -511,8 +511,8 @@
    "provider": "claude",
    "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
    "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T22:22:25.633Z",
-   "bytes": 35228443,
+   "updatedAt": "2026-10-23T22:24:00.874Z",
+   "bytes": 38278,
    "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
