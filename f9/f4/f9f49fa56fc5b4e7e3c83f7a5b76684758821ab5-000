@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-23T13:09:31.591Z",
+ "scannedAt": "2026-10-23T16:00:04.078Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -479,8 +479,24 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-22T22:09:46.176Z",
-   "bytes": 22379,
+   "updatedAt": "2026-10-23T15:59:40.957Z",
+   "bytes": 22404,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-23T15:45:24.690Z",
+   "last": "2026-10-23T15:45:24.690Z",
+   "strength": "weak",
+   "conversationId": "claude:dcc7ed98-e112-48d7-b02f-91779656c66d",
+   "provider": "claude",
+   "sessionId": "dcc7ed98-e112-48d7-b02f-91779656c66d",
+   "title": "zenray plan calendar",
+   "updatedAt": "2026-10-23T15:45:56.125Z",
+   "bytes": 38452,
    "boundProject": null
   },
   {
