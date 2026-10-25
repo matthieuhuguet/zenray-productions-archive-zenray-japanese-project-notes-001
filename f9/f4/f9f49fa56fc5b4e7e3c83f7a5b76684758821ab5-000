@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-24T12:13:34.830Z",
+ "scannedAt": "2026-10-25T11:00:04.668Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -256,7 +256,7 @@
    "sessionId": "dcc7ed98-e112-48d7-b02f-91779656c66d",
    "title": "zenray plan calendar",
    "updatedAt": "2026-10-23T17:39:34.036Z",
-   "bytes": 38449,
+   "bytes": 38450,
    "boundProject": null
   },
   {
@@ -274,6 +274,22 @@
    "updatedAt": "2026-10-07T09:05:28.740Z",
    "bytes": 23256,
    "boundProject": "zenray-freelance"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 3,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-23T21:01:19.136Z",
+   "last": "2026-10-25T10:57:06.051Z",
+   "strength": "weak",
+   "conversationId": "claude:58712af3-1264-4e9c-a11d-d90fec62dce4",
+   "provider": "claude",
+   "sessionId": "58712af3-1264-4e9c-a11d-d90fec62dce4",
+   "title": "zenray calendar plan",
+   "updatedAt": "2026-10-25T10:59:22.657Z",
+   "bytes": 38233,
+   "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
    "projectId": "zenray-japanese",
@@ -391,22 +407,6 @@
    "projectId": "zenray-japanese",
    "lines": 2,
    "work": 0,
-   "prompts": 0,
-   "first": "2026-10-23T21:01:19.136Z",
-   "last": "2026-10-23T21:14:30.809Z",
-   "strength": "weak",
-   "conversationId": "claude:58712af3-1264-4e9c-a11d-d90fec62dce4",
-   "provider": "claude",
-   "sessionId": "58712af3-1264-4e9c-a11d-d90fec62dce4",
-   "title": "zenray calendar plan",
-   "updatedAt": "2026-10-24T12:12:38.523Z",
-   "bytes": 38215,
-   "boundProject": "zenray-calendar-plan-23-october-2026"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 2,
-   "work": 0,
    "prompts": 1,
    "first": "2026-10-23T19:09:05.651Z",
    "last": "2026-10-23T23:34:33.502Z",
@@ -415,8 +415,8 @@
    "provider": "claude",
    "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
    "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T23:48:13.297Z",
-   "bytes": 38265,
+   "updatedAt": "2026-10-25T10:57:44.128Z",
+   "bytes": 38273,
    "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
