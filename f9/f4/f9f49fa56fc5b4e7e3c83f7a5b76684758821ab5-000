@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T09:58:32.425Z",
+ "scannedAt": "2026-10-26T10:11:19.762Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -399,8 +399,8 @@
    "provider": "claude",
    "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
    "title": "speech to text claude",
-   "updatedAt": "2026-10-25T19:10:35.216Z",
-   "bytes": 38407,
+   "updatedAt": "2026-10-26T10:10:44.488Z",
+   "bytes": 12377136,
    "boundProject": "zenray-dictate"
   },
   {
@@ -543,8 +543,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-26T09:54:24.493Z",
-   "bytes": 38425,
+   "updatedAt": "2026-10-26T10:06:09.864Z",
+   "bytes": 38410,
    "boundProject": null
   },
   {
