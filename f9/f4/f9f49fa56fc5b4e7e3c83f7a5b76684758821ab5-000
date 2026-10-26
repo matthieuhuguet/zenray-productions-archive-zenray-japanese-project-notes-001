@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T00:19:15.679Z",
+ "scannedAt": "2026-10-26T00:23:15.393Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -264,6 +264,22 @@
    "lines": 4,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T00:09:31.694Z",
+   "last": "2026-10-26T00:20:09.968Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-26T00:20:13.384Z",
+   "bytes": 239445405,
+   "boundProject": "zenray-meshes"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 4,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T15:45:24.690Z",
    "last": "2026-10-23T17:33:24.058Z",
    "strength": "weak",
@@ -402,22 +418,6 @@
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20766,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 2,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T00:09:31.694Z",
-   "last": "2026-10-26T00:14:19.829Z",
-   "strength": "weak",
-   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "provider": "claude",
-   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-10-26T00:19:07.163Z",
-   "bytes": 239364881,
-   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "zenray-japanese",
