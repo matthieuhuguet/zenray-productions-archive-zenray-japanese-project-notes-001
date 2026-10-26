@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T10:33:38.820Z",
+ "scannedAt": "2026-10-26T10:37:53.754Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
    "title": "speech to text claude",
-   "updatedAt": "2026-10-26T10:33:38.108Z",
-   "bytes": 13402098,
+   "updatedAt": "2026-10-26T10:34:08.437Z",
+   "bytes": 38528,
    "boundProject": "zenray-dictate"
   },
   {
