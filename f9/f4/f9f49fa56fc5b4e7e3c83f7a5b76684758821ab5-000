@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T10:21:57.490Z",
+ "scannedAt": "2026-10-26T10:33:38.820Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -199,6 +199,22 @@
    "projectId": "zenray-japanese",
    "lines": 5,
    "work": 0,
+   "prompts": 1,
+   "first": "2026-10-25T17:53:29.730Z",
+   "last": "2026-10-26T10:32:48.603Z",
+   "strength": "weak",
+   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "provider": "claude",
+   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "title": "speech to text claude",
+   "updatedAt": "2026-10-26T10:33:38.108Z",
+   "bytes": 13402098,
+   "boundProject": "zenray-dictate"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 5,
+   "work": 0,
    "prompts": 0,
    "first": "2026-10-23T21:01:19.136Z",
    "last": "2026-10-25T11:15:32.120Z",
@@ -391,17 +407,17 @@
    "projectId": "zenray-japanese",
    "lines": 2,
    "work": 0,
-   "prompts": 1,
-   "first": "2026-10-25T17:53:29.730Z",
-   "last": "2026-10-25T17:53:29.730Z",
+   "prompts": 0,
+   "first": "2026-10-26T08:52:36.506Z",
+   "last": "2026-10-26T10:18:29.109Z",
    "strength": "weak",
-   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
    "provider": "claude",
-   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
-   "title": "speech to text claude",
-   "updatedAt": "2026-10-26T10:17:35.937Z",
-   "bytes": 12757974,
-   "boundProject": "zenray-dictate"
+   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "title": "zenray freelance",
+   "updatedAt": "2026-10-26T10:28:36.828Z",
+   "bytes": 38486,
+   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
@@ -529,22 +545,6 @@
    "title": "Organisation dossier Downloads",
    "updatedAt": "2026-09-30T10:58:03.807Z",
    "bytes": 22075,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T08:52:36.506Z",
-   "last": "2026-10-26T08:52:36.506Z",
-   "strength": "weak",
-   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "provider": "claude",
-   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "title": "zenray freelance",
-   "updatedAt": "2026-10-26T10:17:36.376Z",
-   "bytes": 8331489,
    "boundProject": null
   },
   {
