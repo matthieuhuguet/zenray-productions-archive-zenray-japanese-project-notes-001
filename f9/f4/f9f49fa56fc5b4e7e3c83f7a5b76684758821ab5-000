@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T00:09:09.169Z",
+ "scannedAt": "2026-10-26T00:19:15.679Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -407,6 +407,22 @@
    "projectId": "zenray-japanese",
    "lines": 2,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-10-26T00:09:31.694Z",
+   "last": "2026-10-26T00:14:19.829Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-26T00:19:07.163Z",
+   "bytes": 239364881,
+   "boundProject": "zenray-meshes"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-25T17:53:29.730Z",
    "last": "2026-10-25T17:53:29.730Z",
@@ -559,8 +575,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-26T00:09:07.669Z",
-   "bytes": 517755876,
+   "updatedAt": "2026-10-26T00:12:32.656Z",
+   "bytes": 22413,
    "boundProject": null
   },
   {
