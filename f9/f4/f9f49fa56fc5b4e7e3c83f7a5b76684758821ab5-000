@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-25T11:35:25.201Z",
+ "scannedAt": "2026-10-26T00:09:09.169Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -126,8 +126,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -142,8 +142,8 @@
    "conversationId": "gemini:6adab64c-b854-4265-89cd-caf7321d2593",
    "provider": "gemini",
    "sessionId": "6adab64c-b854-4265-89cd-caf7321d2593",
-   "title": "Conversation Gemini 6adab64c",
-   "updatedAt": "2026-10-14T11:14:34.955Z",
+   "title": "donne moi les liens de tout qui je suis openable sur finder pour que je puisse les copier rapidement",
+   "updatedAt": "2026-10-14T11:13:48.956225+00:00",
    "bytes": 2981888,
    "boundProject": null
   },
@@ -158,8 +158,8 @@
    "conversationId": "gemini:2b1f8292-9a75-4e76-a8db-5ab8034769db",
    "provider": "gemini",
    "sessionId": "2b1f8292-9a75-4e76-a8db-5ab8034769db",
-   "title": "Conversation Gemini 2b1f8292",
-   "updatedAt": "2026-10-14T10:40:55.894Z",
+   "title": "/Users/zenray/Downloads/Invoice-9BF0758D-1243877.pdf l'adresse mhzenray@gmail.com est mauvaise remplace la par matth.huguet@gmail.com fast s",
+   "updatedAt": "2026-10-14T10:39:58.768871+00:00",
    "bytes": 2162688,
    "boundProject": null
   },
@@ -408,6 +408,38 @@
    "lines": 2,
    "work": 0,
    "prompts": 1,
+   "first": "2026-10-25T17:53:29.730Z",
+   "last": "2026-10-25T17:53:29.730Z",
+   "strength": "weak",
+   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "provider": "claude",
+   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "title": "speech to text claude",
+   "updatedAt": "2026-10-25T19:10:35.216Z",
+   "bytes": 38406,
+   "boundProject": "zenray-dictate"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-10-25T17:36:51.046Z",
+   "last": "2026-10-25T17:36:51.046Z",
+   "strength": "weak",
+   "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "provider": "claude",
+   "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "title": "zenray sfx",
+   "updatedAt": "2026-10-25T18:19:59.685Z",
+   "bytes": 38324,
+   "boundProject": "zenray-sfx-25-october-2026"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 1,
    "first": "2026-10-23T19:09:05.651Z",
    "last": "2026-10-23T23:34:33.502Z",
    "strength": "weak",
@@ -527,8 +559,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-23T20:34:52.519Z",
-   "bytes": 22401,
+   "updatedAt": "2026-10-26T00:09:07.669Z",
+   "bytes": 517755876,
    "boundProject": null
   },
   {
