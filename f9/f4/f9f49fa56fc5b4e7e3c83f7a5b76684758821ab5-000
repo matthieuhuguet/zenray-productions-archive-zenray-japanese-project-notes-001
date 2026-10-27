@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-26T18:49:59.075Z",
+ "scannedAt": "2026-10-27T00:50:34.560Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -110,8 +110,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
-   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
+   "title": "Conversation Gemini d2144d76",
+   "updatedAt": "2026-10-18T08:16:24.226Z",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -126,8 +126,8 @@
    "conversationId": "gemini:6adab64c-b854-4265-89cd-caf7321d2593",
    "provider": "gemini",
    "sessionId": "6adab64c-b854-4265-89cd-caf7321d2593",
-   "title": "donne moi les liens de tout qui je suis openable sur finder pour que je puisse les copier rapidement",
-   "updatedAt": "2026-10-14T11:13:48.956225+00:00",
+   "title": "Conversation Gemini 6adab64c",
+   "updatedAt": "2026-10-14T11:14:34.955Z",
    "bytes": 2981888,
    "boundProject": null
   },
@@ -142,8 +142,8 @@
    "conversationId": "gemini:2b1f8292-9a75-4e76-a8db-5ab8034769db",
    "provider": "gemini",
    "sessionId": "2b1f8292-9a75-4e76-a8db-5ab8034769db",
-   "title": "/Users/zenray/Downloads/Invoice-9BF0758D-1243877.pdf l'adresse mhzenray@gmail.com est mauvaise remplace la par matth.huguet@gmail.com fast s",
-   "updatedAt": "2026-10-14T10:39:58.768871+00:00",
+   "title": "Conversation Gemini 2b1f8292",
+   "updatedAt": "2026-10-14T10:40:55.894Z",
    "bytes": 2162688,
    "boundProject": null
   },
@@ -175,8 +175,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T18:34:15.739Z",
-   "bytes": 38264,
+   "updatedAt": "2026-10-27T00:48:09.824Z",
+   "bytes": 478967357,
    "boundProject": "zenray-meshes"
   },
   {
@@ -415,8 +415,8 @@
    "provider": "claude",
    "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
    "title": "zenray sfx",
-   "updatedAt": "2026-10-26T18:48:42.188Z",
-   "bytes": 38522,
+   "updatedAt": "2026-10-26T20:29:44.320Z",
+   "bytes": 38579,
    "boundProject": "zenray-sfx-25-october-2026"
   },
   {
@@ -559,8 +559,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-26T18:49:51.243Z",
-   "bytes": 554834585,
+   "updatedAt": "2026-10-26T18:52:22.994Z",
+   "bytes": 22508,
    "boundProject": null
   },
   {
