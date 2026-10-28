@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-10-28T17:12:06.741Z",
+ "scannedAt": "2026-10-28T23:13:10.696Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -18,22 +18,6 @@
    "updatedAt": "2026-10-22T21:27:17.592Z",
    "bytes": 42567998,
    "boundProject": "zenray-progress"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 4,
-   "work": 1,
-   "prompts": 2,
-   "first": "2026-10-20T12:41:00.608Z",
-   "last": "2026-10-20T21:33:28.254Z",
-   "strength": "strong",
-   "conversationId": "codex:01a15924-aa22-7300-9533-52fc3fd3f30f",
-   "provider": "codex",
-   "sessionId": "01a15924-aa22-7300-9533-52fc3fd3f30f",
-   "title": "Conversation codex 01a15924",
-   "updatedAt": "2026-10-21T13:55:39.545Z",
-   "bytes": 44845970,
-   "boundProject": "uv-match-height-20-october-2026"
   },
   {
    "projectId": "zenray-japanese",
@@ -175,8 +159,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-28T17:10:59.768Z",
-   "bytes": 614838797,
+   "updatedAt": "2026-10-28T19:50:52.827Z",
+   "bytes": 38488,
    "boundProject": "zenray-meshes"
   },
   {
@@ -191,8 +175,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-28T16:39:09.440Z",
-   "bytes": 38471,
+   "updatedAt": "2026-10-28T20:56:57.718Z",
+   "bytes": 38660,
    "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
