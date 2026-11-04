@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-11-04T00:15:15.407Z",
+ "scannedAt": "2026-11-04T06:16:22.757Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -231,6 +231,22 @@
    "projectId": "zenray-japanese",
    "lines": 6,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-11-03T16:19:06.933Z",
+   "last": "2026-11-04T01:04:10.291Z",
+   "strength": "weak",
+   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "provider": "claude",
+   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "title": "zorah materials",
+   "updatedAt": "2026-11-04T01:53:29.924Z",
+   "bytes": 38359,
+   "boundProject": "zorah-materials"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 6,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-14T21:17:55.332Z",
    "last": "2026-10-15T00:22:58.689Z",
@@ -306,22 +322,6 @@
    "updatedAt": "2026-10-14T13:36:42.695Z",
    "bytes": 46514632,
    "boundProject": "zenray-motion-design"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 4,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-11-03T16:19:06.933Z",
-   "last": "2026-11-03T20:21:11.453Z",
-   "strength": "weak",
-   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "provider": "claude",
-   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "title": "zorah materials",
-   "updatedAt": "2026-11-04T00:14:47.764Z",
-   "bytes": 67771915,
-   "boundProject": "zorah-materials"
   },
   {
    "projectId": "zenray-japanese",
@@ -497,6 +497,22 @@
    "title": "ZenRayHoudini",
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20766,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-04T01:29:24.759Z",
+   "last": "2026-11-04T01:29:24.759Z",
+   "strength": "weak",
+   "conversationId": "claude:57bf6970-5289-409f-a946-08738bf3dd84",
+   "provider": "claude",
+   "sessionId": "57bf6970-5289-409f-a946-08738bf3dd84",
+   "title": "gt america = clean font easy to read",
+   "updatedAt": "2026-11-04T01:31:57.209Z",
+   "bytes": 42942,
    "boundProject": null
   },
   {
