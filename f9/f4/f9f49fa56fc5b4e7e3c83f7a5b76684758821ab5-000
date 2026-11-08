@@ -1,24 +1,8 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-11-06T05:22:48.615Z",
+ "scannedAt": "2026-11-08T18:27:49.689Z",
  "conversations": [
-  {
-   "projectId": "zenray-japanese",
-   "lines": 6,
-   "work": 3,
-   "prompts": 0,
-   "first": "2026-10-29T10:29:01.961Z",
-   "last": "2026-10-30T15:15:32.754Z",
-   "strength": "strong",
-   "conversationId": "codex:01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "provider": "codex",
-   "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-31T06:22:27.936Z",
-   "bytes": 130681305,
-   "boundProject": "zenray-edit"
-  },
   {
    "projectId": "zenray-japanese",
    "lines": 60,
@@ -126,8 +110,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
-   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
+   "title": "Conversation Gemini d2144d76",
+   "updatedAt": "2026-10-18T08:16:24.226Z",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -142,8 +126,8 @@
    "conversationId": "gemini:6adab64c-b854-4265-89cd-caf7321d2593",
    "provider": "gemini",
    "sessionId": "6adab64c-b854-4265-89cd-caf7321d2593",
-   "title": "donne moi les liens de tout qui je suis openable sur finder pour que je puisse les copier rapidement",
-   "updatedAt": "2026-10-14T11:13:48.956225+00:00",
+   "title": "Conversation Gemini 6adab64c",
+   "updatedAt": "2026-10-14T11:14:34.955Z",
    "bytes": 2981888,
    "boundProject": null
   },
@@ -158,8 +142,8 @@
    "conversationId": "gemini:2b1f8292-9a75-4e76-a8db-5ab8034769db",
    "provider": "gemini",
    "sessionId": "2b1f8292-9a75-4e76-a8db-5ab8034769db",
-   "title": "/Users/zenray/Downloads/Invoice-9BF0758D-1243877.pdf l'adresse mhzenray@gmail.com est mauvaise remplace la par matth.huguet@gmail.com fast s",
-   "updatedAt": "2026-10-14T10:39:58.768871+00:00",
+   "title": "Conversation Gemini 2b1f8292",
+   "updatedAt": "2026-10-14T10:40:55.894Z",
    "bytes": 2162688,
    "boundProject": null
   },
@@ -513,6 +497,22 @@
    "title": "ZenRayHoudini",
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20766,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-07T23:01:28.675Z",
+   "last": "2026-11-07T23:01:28.675Z",
+   "strength": "weak",
+   "conversationId": "claude:e8ea2178-33dd-484a-8fb4-198702093ebf",
+   "provider": "claude",
+   "sessionId": "e8ea2178-33dd-484a-8fb4-198702093ebf",
+   "title": "past.dev setup et intégration",
+   "updatedAt": "2026-11-08T00:10:33.534Z",
+   "bytes": 39680,
    "boundProject": null
   },
   {
