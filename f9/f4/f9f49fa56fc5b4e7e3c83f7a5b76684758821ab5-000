@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-11-11T23:54:20.273Z",
+ "scannedAt": "2026-11-12T05:55:34.314Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -94,8 +94,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -110,8 +110,8 @@
    "conversationId": "gemini:6adab64c-b854-4265-89cd-caf7321d2593",
    "provider": "gemini",
    "sessionId": "6adab64c-b854-4265-89cd-caf7321d2593",
-   "title": "Conversation Gemini 6adab64c",
-   "updatedAt": "2026-10-14T11:14:34.955Z",
+   "title": "donne moi les liens de tout qui je suis openable sur finder pour que je puisse les copier rapidement",
+   "updatedAt": "2026-10-14T11:13:48.956225+00:00",
    "bytes": 2981888,
    "boundProject": null
   },
@@ -126,8 +126,8 @@
    "conversationId": "gemini:2b1f8292-9a75-4e76-a8db-5ab8034769db",
    "provider": "gemini",
    "sessionId": "2b1f8292-9a75-4e76-a8db-5ab8034769db",
-   "title": "Conversation Gemini 2b1f8292",
-   "updatedAt": "2026-10-14T10:40:55.894Z",
+   "title": "/Users/zenray/Downloads/Invoice-9BF0758D-1243877.pdf l'adresse mhzenray@gmail.com est mauvaise remplace la par matth.huguet@gmail.com fast s",
+   "updatedAt": "2026-10-14T10:39:58.768871+00:00",
    "bytes": 2162688,
    "boundProject": null
   },
@@ -151,6 +151,22 @@
    "projectId": "zenray-japanese",
    "lines": 30,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-11-05T18:27:08.735Z",
+   "last": "2026-11-12T01:23:53.580Z",
+   "strength": "weak",
+   "conversationId": "claude:0611e96b-26b2-4d65-a9e1-cb913738cca3",
+   "provider": "claude",
+   "sessionId": "0611e96b-26b2-4d65-a9e1-cb913738cca3",
+   "title": "zenray meshes v5",
+   "updatedAt": "2026-11-12T01:48:10.686Z",
+   "bytes": 280718,
+   "boundProject": "zenray-meshes"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 30,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-21T14:05:52.208Z",
    "last": "2026-10-23T12:19:32.452Z",
@@ -162,22 +178,6 @@
    "updatedAt": "2026-10-23T13:08:52.408Z",
    "bytes": 41058,
    "boundProject": "louisiana-bayou"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 26,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-11-05T18:27:08.735Z",
-   "last": "2026-11-11T14:47:46.395Z",
-   "strength": "weak",
-   "conversationId": "claude:0611e96b-26b2-4d65-a9e1-cb913738cca3",
-   "provider": "claude",
-   "sessionId": "0611e96b-26b2-4d65-a9e1-cb913738cca3",
-   "title": "zenray meshes v5",
-   "updatedAt": "2026-11-11T19:30:32.504Z",
-   "bytes": 280567,
-   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "zenray-japanese",
@@ -530,6 +530,22 @@
    "updatedAt": "2026-09-15T15:03:58.525Z",
    "bytes": 20766,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-12T01:00:28.961Z",
+   "last": "2026-11-12T01:00:28.961Z",
+   "strength": "weak",
+   "conversationId": "claude:e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "provider": "claude",
+   "sessionId": "e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "title": "excellent zenray audio et fonts",
+   "updatedAt": "2026-11-12T01:21:16.852Z",
+   "bytes": 276339,
+   "boundProject": "audio-fonts-gallery-12-november-2026"
   },
   {
    "projectId": "zenray-japanese",
