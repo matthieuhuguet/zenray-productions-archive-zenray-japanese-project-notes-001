@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-japanese",
- "scannedAt": "2026-11-13T07:20:38.607Z",
+ "scannedAt": "2026-11-13T13:21:41.433Z",
  "conversations": [
   {
    "projectId": "zenray-japanese",
@@ -160,7 +160,7 @@
    "sessionId": "0611e96b-26b2-4d65-a9e1-cb913738cca3",
    "title": "zenray meshes v5",
    "updatedAt": "2026-11-12T16:31:13.514Z",
-   "bytes": 305786,
+   "bytes": 305749,
    "boundProject": "zenray-meshes"
   },
   {
@@ -178,6 +178,22 @@
    "updatedAt": "2026-10-23T13:08:52.408Z",
    "bytes": 41058,
    "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "zenray-japanese",
+   "lines": 12,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-12T11:07:01.700Z",
+   "last": "2026-11-13T09:01:50.235Z",
+   "strength": "weak",
+   "conversationId": "claude:48664bcf-655d-4f1c-8f4c-981e576050ff",
+   "provider": "claude",
+   "sessionId": "48664bcf-655d-4f1c-8f4c-981e576050ff",
+   "title": "guides jaune et turquoise",
+   "updatedAt": "2026-11-13T13:14:13.436Z",
+   "bytes": 33400,
+   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
@@ -226,22 +242,6 @@
    "updatedAt": "2026-10-30T13:00:29.267Z",
    "bytes": 38918,
    "boundProject": "zenray-calendar-plan-23-october-2026"
-  },
-  {
-   "projectId": "zenray-japanese",
-   "lines": 8,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-11-12T11:07:01.700Z",
-   "last": "2026-11-12T23:47:28.973Z",
-   "strength": "weak",
-   "conversationId": "claude:48664bcf-655d-4f1c-8f4c-981e576050ff",
-   "provider": "claude",
-   "sessionId": "48664bcf-655d-4f1c-8f4c-981e576050ff",
-   "title": "guides jaune et turquoise",
-   "updatedAt": "2026-11-13T07:19:24.086Z",
-   "bytes": 283195,
-   "boundProject": null
   },
   {
    "projectId": "zenray-japanese",
